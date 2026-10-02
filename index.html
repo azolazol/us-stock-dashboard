@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US Stock AI Dashboard</title>
+  <meta name="description" content="AI 기반 미국 주식 최신 뉴스 요약 대시보드">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+<body>
+  <!-- TradingView Widget BEGIN -->
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+    {
+    "symbols": [
+      { "proName": "FOREXCOM:SPXUSD", "title": "S&P 500" },
+      { "proName": "FOREXCOM:NSXUSD", "title": "Nasdaq 100" },
+      { "proName": "FOREXCOM:DJI", "title": "Dow Jones" },
+      { "description": "Apple", "proName": "NASDAQ:AAPL" },
+      { "description": "Tesla", "proName": "NASDAQ:TSLA" },
+      { "description": "Microsoft", "proName": "NASDAQ:MSFT" },
+      { "description": "Nvidia", "proName": "NASDAQ:NVDA" },
+      { "proName": "BITSTAMP:BTCUSD", "title": "Bitcoin" }
+    ],
+    "showSymbolLogo": true,
+    "isTransparent": false,
+    "displayMode": "adaptive",
+    "colorTheme": "dark",
+    "locale": "kr"
+    }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+
+  <main class="container">
+    <header class="app-header">
+      <div class="header-content">
+        <h1><i class="ri-bar-chart-box-line"></i> 미국 주식 AI 요약</h1>
+        <div class="search-box">
+          <i class="ri-search-line"></i>
+          <input type="text" id="searchInput" placeholder="뉴스 키워드 검색 (예: 애플, 테슬라)...">
+        </div>
+      </div>
+    </header>
+
+    <!-- 날짜별 탭 (횡스크롤) -->
+    <div class="tabs-wrapper">
+      <button class="scroll-btn left-btn" id="scrollLeft"><i class="ri-arrow-left-s-line"></i></button>
+      <div class="date-tabs-container" id="dateTabs">
+        <!-- Date tabs will be injected here -->
+      </div>
+      <button class="scroll-btn right-btn" id="scrollRight"><i class="ri-arrow-right-s-line"></i></button>
+    </div>
+
+    <!-- 내용 영역 -->
+    <div class="content-area" id="contentArea">
+      <div class="loading-spinner" id="loading">
+        <div class="spinner"></div>
+        <p>최신 뉴스 요약을 불러오는 중입니다...</p>
+      </div>
+      
+      <div id="resultsContainer" class="results-grid">
+        <!-- Cards will be injected here -->
+      </div>
+      
+      <div id="noResults" class="hidden empty-state">
+        <i class="ri-file-search-line"></i>
+        <p>검색 결과가 없거나 기록된 요약이 없습니다.</p>
+      </div>
+    </div>
+  </main>
+  
+  <script src="app.js"></script>
+</body>
+</html>
