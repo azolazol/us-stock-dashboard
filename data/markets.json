@@ -1,9 +1,65 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-20T16:59:18.929909+00:00",
+  "attempted_at": "2026-10-20T21:34:22.292093+00:00",
   "markets": {
     "kr": {
       "news": [
+        {
+          "title": "코스피서 '역대급 매물' 던진 외인…그 와중에 담은 종목은 [분석+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vT0lPWmpPd1NUMW45U2Y1T1lJdEVWMUdCbHNIS2htcFBLcnd4Y3hLTVFwMVoxQXRZMjRlaUZfd0k2VnVRaHZoaVdPcHZ3Y2YwRlpDczcyMVlWUQ?oc=5",
+          "source": "한국경제",
+          "published_at": "2026-10-20T21:30:04+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "상장 제약·바이오사 상반기 평균 이자비용 코스피 53억원, 코스닥 11억원",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PLWE2eVQ1aEdfZm1JSHJ2NUlFM2pmUHZTbHdYb0JuaEJVVjVMN2hWbEFhakowbFVYM1pzOG5IQm90WGdFckxXdkZ5dXZxY2JkMHc3dFZSSktnM3Eyd2dVV092dzRkbHQy?oc=5",
+          "source": "약업신문",
+          "published_at": "2026-10-20T21:01:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "‘롤러코스피’서 엇갈린 회복력…반도체 부진 속 바이오·배터리 선방",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UbDVBX2ZtRHpCSHU0WTNrN1pDclpnMDlXbV9pNmtVSDlGajFNbnRxU1pMTDAySFZkY29lUWxNNHVjR08wTWlHbDFqV0dVOW5WSkcwQQ?oc=5",
+          "source": "이투데이",
+          "published_at": "2026-10-20T21:00:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "[단독] 21년간 1조 챙긴 ‘사무장병원’…그 뒤엔 코스닥 상장사 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ES3UtWGhhVGpQQUZoSTRsYjFLRy1ncGx5QnF3bUdwOXc3azRIdGZiMlBkcjBpa1VkZi00TWFpUXNoeXBKYjdxVVRfa2tHVVMyNTgwODB3?oc=5",
+          "source": "중앙일보",
+          "published_at": "2026-10-20T20:00:02+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "'동전주' 첫 상장폐지 나온다…코스닥 4~5곳 대상 전망",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaY3djY1FnOE1pc25QWVRRUERCMWY3N083LTZidi1EZWVmV25WbUFtb2lDaEl4SDhfeVIyT2FJdktLS0dsYXQzWkRWRURTQ0VLY2c?oc=5",
+          "source": "노컷뉴스",
+          "published_at": "2026-10-20T20:00:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "바닥은 11월입니다 … 코스피 연말 반등 투자전략은",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Vl9hUVktNWplZldXeFF5M1dVbHhtS1h3aTd6VkFscENNWEloenJPODVRUmhtX29VWTNLd3pHaF9FY3prOUNRdlJnQ09zZU12NVE?oc=5",
+          "source": "매일경제",
+          "published_at": "2026-10-20T19:30:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "모니모서 신규 계좌 개설하면 코스피 200 주식 1주 증정",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wbjFLdGZzU3c0VU9oQXhVc09ENFdkdGxlbVhhTGRGVjA1ZWRiUnBRN253NnhnclJiOE1RSFdsMks4TERmLUVZNVduelJQTERYRWVDeVFyZm9ldm82NmpWWnJnM0xHZ9IBZkFVX3lxTE9wbjFLdGZzU3c0VU9oQXhVc09ENFdkdGxlbVhhTGRGVjA1ZWRiUnBRN253NnhnclJiOE1RSFdsMks4TERmLUVZNVduelJQTERYRWVDeVFyZm9ldm82NmpWWnJnM0xHZw?oc=5",
+          "source": "동아일보",
+          "published_at": "2026-10-20T19:30:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "코스피 4% 가까이 급락‥유럽발 악재도 덮쳐",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1V094UWxoOG55UjZ3bDV3ZGp0UmgtUWt3NVZIV19KTk9FZmpFeXhwVFBWYTg0cVRJNUVJTWN4ZjU1M2Fvd1YwMFdPNGJqUjVsM2p0RGZiRXlJWUx0QnBhX1dxcUlaZ3NjaXhxTlRCQVpZSDlNOTg3b9IBeEFVX3lxTE1VS1I4Q2NiNDkxdHJOVEVneF9NWmViZjdVbkx5ZTZkel9aODk2TTZ0ZEJubTZmc2hyaEhyWFg2Ml9Pd0RBU3FmTnRfaXE2dTlXZkZZMkVMUlY4dHNld1A4cjFFVGJBVTYtN1dHbzhiRjJXZEVsQjBLSQ?oc=5",
+          "source": "MBC 뉴스",
+          "published_at": "2026-10-20T16:10:00+00:00",
+          "category": "KR"
+        },
         {
           "title": "코스피 다시 3% 급락…우리만 왜 더 떨어지나",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXZUN3ZzR1NCRGp3VHdLNmcyU2JobzVtTkhzcFRoX0VabEpDeUJJenF0M0Y4OXprNkNkZDJadlJ2eXptaUdUZlJJUlNjeUJuZ3RyamRnWmdQcmQwM3QtYmNnYUEyaVdNb0cyVU9qN3FUaUpMd09rWW0zZ19tS05qWkxQU2tld9IBZkFVX3lxTFBza01tYVZtRkF1UFpMY2d0aVYzSjV1QWMzc0RsaW4taXlJX0F2eXdmY3EyVDlHbTlrLUxadnk1LThlcW81OEpyajFZYjQxck56d0QwaUJ0RmRCcV9nZWozWUZ1dWZ0dw?oc=5",
@@ -75,6 +131,20 @@
           "category": "KR"
         },
         {
+          "title": "플레이 설명에서 자주 빠뜨리는 포커 다이 종료 단계",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5uc3J0aGJZVWRYZXdWZThwWWpmQTBrOE8yU2tZejBObWpjeUN3QnhmMHlPYl9MYjUyQTdWekJvdXBWNEdGZC1GREZlS3FzMWk2V0drdmpLQTVXUHRDRW83LVhrZkVZbTJ0SHdabnE2OWtQSXdNTHRZVnFkaWV2aWZMSFlVQ1hyanFUbF95V2VxT3V0ZXoyNXE4TlE1X1EzRkJOYVlYSDhzeXFFRE5yelhR?oc=5",
+          "source": "Calgary Roughnecks",
+          "published_at": "2026-10-20T11:42:53+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "지원 브라우저 안내는 어디에 있나요? 토토 예약구매",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUNoSFEtaFhyN3F4bWVGSHQ0NDZnWHRtaXV1WmxwWmt1WndNZ3k0NW9CaVhJYmttYWNBaTNnSldabFhabXg5NlItSllXVHJFQmdhWm5jQXhlYUtIbXpqMTdKNFBuRUpJMlh1U1FnSW83ajdsY0NRUDNRMWMxU0U4VWFTTTRNa29zU3M5M0x0NmUza0U2OWVUd2RrbXY1dzAxNExtVEdneWNwdkpjNGJXNExvNTVHRFcxeDBpd1UzbXk1Z0xaMEZzSjZsLU4wdw?oc=5",
+          "source": "Calgary Roughnecks",
+          "published_at": "2026-10-20T11:37:53+00:00",
+          "category": "KR"
+        },
+        {
           "title": "“더 떨어지긴 힘들다고 봤는데”…삼전닉스 비중 늘린 개미들 ‘더 비명’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVjJwdkl0VXJYV29HdDBESWpDT2E4aURSdml6S1BmWFQ5bnlNc0k2TzM2S1FtUGRlN054YlkyYWM1LXdvS1JlaFhObTdGTXJuZlE?oc=5",
           "source": "매일경제 마켓",
@@ -93,6 +163,13 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NM1VHSTlJNDlPYU9lNFVVc2VHY1RXdkxrbnhubUtHVUtadk13UzhVZWZfOGFLbjRtUmlsZ3BMWlZVTVh2WF85ZG9PamNwSW95aVhHMnFvV1E4QQ?oc=5",
           "source": "파이낸셜뉴스",
           "published_at": "2026-10-20T11:00:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "내년부터 코스피·코스닥 전체 상장사에 정보보호 공시 의무화",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5dmIwVWZyN1B0ZE1Zd3EyOEFDdGwzdVRpNXNyVE9BVzFHeTE0eU1zRi1jbHZJYWtKUHV4TFRLTXVZcWVPSFVMeXVWYjlPa3lub25fdzlOTFJxamNtOXNncU42MHZIRE1QdjI0?oc=5",
+          "source": "뉴스데일리",
+          "published_at": "2026-10-20T10:56:46+00:00",
           "category": "KR"
         },
         {
@@ -285,13 +362,6 @@
           "category": "KR"
         },
         {
-          "title": "내년부터 코스피·코스닥 전체 상장사에 정보보호 공시 의무화",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFlWUmt0OS1CQURzbHRFeW50Qld6dEFjeTFLdWtHX01sUTB4cktOYk5fV3lka2JoME1aTHlEREVBX0VUdzNkdTdyNGt1SG1hRTREUjMzbmVSZVVUY21DV2tyeUk3ektfNmphcmlUTndTTnJMMTVzOFRHbnp6c245MkE0YlZXOERWdDZodA?oc=5",
-          "source": "정책브리핑",
-          "published_at": "2026-10-20T08:15:06+00:00",
-          "category": "KR"
-        },
-        {
           "title": "노무라증권 \"메모리 공급 부족 2028년까지 지속, 삼성전자·SK하이닉스 주식 '매수' 의견\"",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDQUpjTmZEUXJyV0M1UkFDbHlwbW9vdzFMVTVsQmJibWE3Q1FLOUp3eDFXRTdzSzVaUTJEWFIzYUZmRFp3YW04aVhPSXVhZVZHRXZSUmxOV25KdWNEbW5vWjdjR2RPYXlsRWNDMkFMMG5SQ2s?oc=5",
           "source": "비즈니스포스트",
@@ -474,6 +544,13 @@
           "category": "KR"
         },
         {
+          "title": "‘삼성전자’ 두고 돌변한 증권가…‘목표가 65만원’ 초대형 변수 터졌다",
+          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQT3BDMERBUTJfV3M4QnRkMzVsNFhkZ2xQT29vMzhqZkFvdFB0b2JDdV9oZjlQQjl4UUJBWVNZRWJvSlFtYVJMVjlYdWUwNTgxQkdPWS1wWW9nVmtPNUZqdFFBY3NaWUJNQmdyQ2xyQ3Vtb213Ry1xZWFBVWtFSmZ5U3VHTDRpaEx3cFVoTjZvd1FpQjdlVndiczVsYVZSWDREdHpFcUpSWUhMMVlUX21jM2xyUGZ1dXltTTVnZlNIUW5UOEZVczVlOGp1MXBOeGdpc1pqdDBIYXpySk9OR2NJS05sWll2Q2lBWEdtdC10RDlsa2ZWX1hwNkVWX2plUlBpUkVnN25Kbl9DYkJjLVlfaXU3dkFlNmxMVU9wN3lDcm5oNVNxNmw1Mi1ra2ZrdmtoQVFJUkh5dl9OTWN5WWRXdkVCMnA4OVZmWThOeVNWWWlpUVd3engxQy1OekhqWUFwbXk4MVhJTEpMalloOEQ3Qm9BdlFQaW5WQ3pDZUh1MEgzTm5Eb1JBUm1QVDhQNmR3UkpiVkpnVFItRExWWW94dU1FUE51c2VjcHU2V0lnNmJjN1B3UjdTQUJPb0JiczlHQV9scUdFYzRzdEdobE9ndGZPaXVncVpHQmxna0tjT2JZbHl4M2c?oc=5",
+          "source": "MSN",
+          "published_at": "2026-10-20T07:17:24+00:00",
+          "category": "KR"
+        },
+        {
           "title": "[마감] 코스피, AI 신용우려에 3% 빠져 다시 5500선",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VRjJ0elJhVmdLNmFpZnZ0MUg5MGp3X2ZLWW45TFd1ZWhUT01iUElQS09DcF9LSzBHUlV6S3dGMm1WVlE2SjQweVl1TTMyQmFBNFZHdlBhczZWWWNSVm42WllQM2NNVG8yWlpJMGUwUzV2VDJX0gF0QVVfeXFMTlVGMnR6UmFWZ0s2YWlmdnQxSDkwandfZktZbjlMV3VlaFRPTWJQSVBLT0NwX0tLMEdSVXpLd0YybVZWUTZKNDB5WXVNMzJCYUE0Vkd2UGFzNlZZY1JWbjZaWVAzY01UbzJaWkkwZTBTNXZUMlc?oc=5",
           "source": "IT조선",
@@ -506,6 +583,20 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rdDVlcEIyNkJ6S1dpQTZyWlQ0X0tYZElfLUxrY0cxUTZrR3kyN1JoNk5qWjg3UF9NS09UTVljUXlvZUxZLWMxLUxVTDBjQTVXUXU1NGw4dVhpOFp2ZjhmdTlqS193WUFsem9JMUlMZXE?oc=5",
           "source": "Investing.com 한국어",
           "published_at": "2026-10-20T07:09:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "코스피, 반도체·2차전지 약세...전 거래일 반등 무위로",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdjZHSl82cjYyTW5JV0RtZndsdGtwN3lJZFRCSUMtRFdRa1o5YlhsVXB1U1o5ZTJ1MGhSbzhBaXZHNlhRZWFMaG1ZTnp0bTRpZWZBNkZUQ0hxUHgzQkJYaFRyYkl3N01wZFp4X0ZwRERnbk0?oc=5",
+          "source": "스트레이트뉴스",
+          "published_at": "2026-10-20T07:08:44+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "이틀 연속 반등 후 폭락...코스피, 3.7% 하락",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNRWhNVzNxUVp0OUtrQ05HamJ1N3JUOUV1OHJtUlNnajQ3Zk9KZ1BYNlo1NGFpX3dtRGYwcmhYY0Z4Z0lub0U1WWZYYzZTaS1FaUctWkNSUUpJVUxsRUE?oc=5",
+          "source": "YTN",
+          "published_at": "2026-10-20T07:07:00+00:00",
           "category": "KR"
         },
         {
@@ -612,100 +703,9 @@
           "source": "아시아경제",
           "published_at": "2026-10-20T06:51:06+00:00",
           "category": "KR"
-        },
-        {
-          "title": "코스피, 하루 만에 215p 급락 5550선 후퇴…이틀간 상승분 다 반납",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNkhRaDBuNEhSTWpaRWlGc0ljR09aM01KTFVXZUJ1Unppb1c5dUxkczg4Q3Z4ZjBtOU44NG5SYUJGNVZ1UDJFS01GbUVITWtGdWVTSEVCSGRHUS04MVdFcWpEcXItai10a2k2RndRRQ?oc=5",
-          "source": "진일보 | 전남일보",
-          "published_at": "2026-10-20T06:49:47+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "하루 만에 꺾인 코스피 반등... 외국인·기관 매도에 3.73%↓ [마감시황]",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZy11cnRoX2FFcHZoZW4xSk9GcU5mRWYyY25SY1BiVXBjbWxHTHJEQnNRZE45QXBFc1NveFVDNXU3RG9sM0dYbUdfSm9ydV9sa0taTVZyWDNyd0ZRcUQ3dDZnR1c?oc=5",
-          "source": "매일일보",
-          "published_at": "2026-10-20T06:45:49+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피, 3.73% 내린 5552.74 마감",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByeEdnNWtycFZhYlpFbUhSaWpKOUIzVzZCdnNHeHphNDRneGY1UTRJSDVQVGtzWDRldDNaaWpsWUc4OWk4OUFEOG1qcDVEWGNpNGlNRmN3c2JVWmYtTEtYSHJSeUc?oc=5",
-          "source": "서울경제TV",
-          "published_at": "2026-10-20T06:42:07+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피, 외국인·기관 매도에 3.73% 하락…5552.74 마감 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KVW1JN013YlF2X0dNRE9BWUtfZ3pGQ0xaemUyN2tQNlA2X1MxbWdNdWdlVEZNVlZ0ai1pRno5S0JZQWQwWTR6QVB5OFNyVVFWbVVLd25sOGItblpVaTVQdTRzWDRGekhO0gFuQVVfeXFMTmxmY25SakdjN1RoZDdOTUpwdm1qQVVGc2lhMzJuLVRiMExsSUN2MzVoWHczLXlvLVgwMjRFV3VwSjhhUm1mRmJaZmxkRHpFZEk4LUw1QzJyTDdoY2lEd2RSbTE1M3NLRURFNGswMkE?oc=5",
-          "source": "머니투데이",
-          "published_at": "2026-10-20T06:40:56+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "美 기술주 올랐는데 속절없이 무너졌다…코스피 폭락한 이유",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KQmt6NGdYVVM0X0M2dURudkJqQ2VNZ1VlTHBQeVNDTG1mNWw0U0lHbmxGZml6MVZvVkZWQVM3aXdLaFF0QzV0enM2dHpWNjU1VU9uaWdnaWFQQQ?oc=5",
-          "source": "한국경제",
-          "published_at": "2026-10-20T06:40:36+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피, 3.7% 급락한 5,552 마감…코스닥도 3.3%↓",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vSzhZWFZmWHk1VVFxbE9IZkpnOXVKT08tUi1zcXRCeUdCLVN2ZC1sbUxsdEJqQkx1dExDVFBiTzM3NUw1b2NXWEh6dXpmUDN0MFBUS2VXVzk1M1HSAWBBVV95cUxOUDFIdUllYkhwMzRnakxqaEFQTWd5NVQtYV9wS1Y1bTNSU3JJN3NoWHdqMkZVNkVFRDJ2Uy1IcWZQVzVicEc2aUpTTWxaTmxFNTVQd1R5dU9kUUt0aXZQdHg?oc=5",
-          "source": "연합뉴스",
-          "published_at": "2026-10-20T06:39:07+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "속보 반등세 이어가지 못하고 폭락...코스피, 3.7% 하락",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZ1hjQld3Q3pHUUQ0TkswZUdJRHRuaHJBZklKSE82WHhkVV9sZng4SlBrY2ZFRHlZZ2NsQl9hYkNBS1paQ2UyZ29JME1YVUR5SFVNeE9aTVJkcDdSNFE?oc=5",
-          "source": "YTN",
-          "published_at": "2026-10-20T06:38:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피, 3.73% 내린 5,552.74 마감…코스닥도 3%대 하락",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TbU42SVV3aVBMWW1UdHpsV2tUdDhDUUoxYnlqZHhFS1dIZlRyWk9DSGlucko3amZCRnFoaGNmaWFzUXRiWGk1N0lLa3AtWU1rTERyVXBlczg5MEl3N0w4M0tsMmcxU2M?oc=5",
-          "source": "연합뉴스TV",
-          "published_at": "2026-10-20T06:36:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "[오늘의증시] 10월 20일 코스피 코스닥",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FaG9sWkhqVUFZVk1faXd1QmN3UWZPbEI4YVJacE9BV09DMnQ1b3dEWklnbEVBZTNpak9pNm44M0M0RWxaOVJMVGhIaw?oc=5",
-          "source": "뉴스1",
-          "published_at": "2026-10-20T06:35:28+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "[속보] 코스피, 3.7% 급락한 5,552 마감…코스닥도 3.3%↓",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxcTRHRXR4c2FkWGc3eG04Sm5wcGlvZXZuTlVwNzd2amw3Qk5sWmFjQklOS3d6WVEyRnpUQUtZWGgyeVl3VU5iNmF3THZBU01weGNESndLQzZwMGvSAWBBVV95cUxQT2xzNXpCa2htbGpHZW5Zc3R3cnJxY0hwMkhHbGUwWEJxZnR5N0ZIRTlYbGtCaXpVYkFHYVNZSGx0b3dFSE02MWl4YjRtMF82Rk02VTItOVlSdGE2ZGQ1Q2g?oc=5",
-          "source": "연합뉴스",
-          "published_at": "2026-10-20T06:33:33+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피, 3.73% 급락한 5,552.74에 마감",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mSDM3WmFkX0Z1TjJJdXQ5cmM1Rng1aTNuMmNzMWVaSUdwR1hXNnZDcUVMMVFwS3dsMXNMWFN5WjF5OUE2Z3VZQWFXWmE0LUJuSVZEcG83VTlsT3RwN1ZlMWdVc21vNGE2REdPUlFxQjLSAXRBVV95cUxPSXJuSllnbDVLc2hOa0hEWnllMWhUZjdQTG9FU2NkQjVfOWZPZ0NsMmZrNHFfZUVCb2dUN2I2dWF6QjE5eWx5VlJnSjVrZER3NGpTZkUtcEJaY0pneWd3LUFyLU1QbkNKaWlJOFhQNllRc3lyWA?oc=5",
-          "source": "연합인포맥스",
-          "published_at": "2026-10-20T06:33:25+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피 급등락 속 국민연금, 삼전·하닉 비중 5%p 줄여",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZW1tY3M0ZF9XdTdJcUNaY05UVjl1ZWVHNWVrNXRUaS01Z0tyTlpxU3oxaUtiUDllSzJCNE55eUFxeHpLV1B6WjN1dmhFMHB4?oc=5",
-          "source": "문화일보",
-          "published_at": "2026-10-20T06:25:48+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피 급락 후폭풍…주택 거래 위축·집값 하방 압력 커지나",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ORHpSQkotLWpybi0yZ3VZdTRhTUplRGdlV1dBbGlza0FNaGp2WV8tUVo2QTlHUlp2eXFBYUFJdTJ0Z2YxVGZkLWtGRVd5bUpLMTJwSGNTUDNfXy1D?oc=5",
-          "source": "뉴스핌",
-          "published_at": "2026-10-20T06:23:00+00:00",
-          "category": "KR"
         }
       ],
-      "news_updated_at": "2026-10-20T16:59:19.940163+00:00",
+      "news_updated_at": "2026-10-20T21:34:23.365500+00:00",
       "quotes": [
         {
           "name": "코스피",
@@ -714,7 +714,7 @@
           "currency": "KRW",
           "change_pct": -3.73213247501627,
           "as_of": "2026-10-20T11:05:40+00:00",
-          "fetched_at": "2026-10-20T16:59:20.100151+00:00",
+          "fetched_at": "2026-10-20T21:34:23.537241+00:00",
           "source": "Yahoo Finance",
           "stale": false
         },
@@ -725,18 +725,18 @@
           "currency": "KRW",
           "change_pct": -3.328019157232087,
           "as_of": "2026-10-20T11:05:40+00:00",
-          "fetched_at": "2026-10-20T16:59:20.282181+00:00",
+          "fetched_at": "2026-10-20T21:34:23.679871+00:00",
           "source": "Yahoo Finance",
           "stale": false
         },
         {
           "name": "원/달러",
           "symbol": "KRW=X",
-          "price": 1327.67,
+          "price": 1326.24,
           "currency": "KRW",
-          "change_pct": -0.4319726928988299,
-          "as_of": "2026-10-20T16:59:19+00:00",
-          "fetched_at": "2026-10-20T16:59:20.451451+00:00",
+          "change_pct": -0.28270676691729557,
+          "as_of": "2026-10-20T21:34:16+00:00",
+          "fetched_at": "2026-10-20T21:34:23.845325+00:00",
           "source": "Yahoo Finance",
           "stale": false
         }
@@ -746,10 +746,213 @@
     "crypto": {
       "news": [
         {
+          "title": "솔라나 100달러 무너지나…역대급 업그레이드로 118달러 반등할까?",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sRmpTVElEcjRsbk1neGR0bVk3SDk2dElqajRTLTdaU2tmVFVMaUVjTUZ1TXNSZ2dxWHBpZXBlVnBGc2JFTWJlTm5n?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T21:32:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "비트코인(BTC), 8만 1,100달러서 줄다리기...미국 수요 '뚝'",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFMzBRM0ttTi02UEdzMUtBNmQxUkVLdUJGT0RFX2I5R3BIeTVBemgySmptLXVKTnBiOVlTeHNCQVNqYk9qSF9VNGx3?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T21:30:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "리플 1.33달러 반등에도 불안한 이유…11월 1.24달러까지 추락하나?",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14eHhsTG5mdGxHbWtGODJobnRiM0RPLUo5Q0tabWtZcnFYbWdRME14d1p6NDM3UEdmU3M5d2szSHNZQTJxeHBzeThR?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T21:30:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "이더리움, JP모건 호재에도 2,400달러대 갇혔다…ETF 10억 달러 유출에 반등 '발목'",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nZldlcGh2OGprVjZvWmxFZGtFbmIzaVJCZnktMkp1VURmbndpbkpKRmpPRmFsYXZEUFpPb2ZUYnkzTkM3Sk1aUXFB?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T21:27:00+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "비트코인 83,000달러 회복…블랙록 '폭풍 매수', 87,000달러 돌파할까?",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55dkQ1Vm5KelVZQy1FVm5Gc1ExdjhqaHlzTVFkMkZpTEttTlBCTjRmUGhZRGgwRkFnQjFrX2hJaDItQWY4QlNaRQ?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T21:25:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "20일 밤 거래대금 톱10…깃코인 1위·리플 2위, 돌핀 21% 급등",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWTQ0Qk9XTnJxMElodTJOaDJhLTQxb1NlZy11MHlvcjhIcUdmaGd2dm5HUndNSVZxZzRlYVhZSS1BV2VDOTI5bWxhOTNrdy03TUp6UTZEZFBKb0RYZmo4WnluMl9IdGRk?oc=5",
+          "source": "CBC뉴스",
+          "published_at": "2026-10-20T21:25:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "2026년10월21일(수) 비트코인 시황",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOem1VendjTmVmUFhWbVExT1YzOTVXbmxLQjFNLWdaR3VrdW1kRlhuNHdFQnBtQi02ZkJfdURIVXJXREZFRGFmUEpvZlRiY3BEY3d1eUt0dmFHYVZTdFhWZVV0ZnRXeHZQc2FKbGk5Unc5bF9YcUdyaXdpdEVzS21COHNB?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "published_at": "2026-10-20T21:15:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "JP모건, JPM코인 이더리움으로 영역 확대∙∙∙디지털자산 사업 강화",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9acmVMdnRiM09pWVlpOWdHdUZQUTlGZlRCd2FrUG1DcUhxbXhkaTlZTV9tMXY2OXMtMDE2UGZsMXBwYkFxQjlvVFA4dEh2N1ZFMm5UWUtnal90ekFnNEZaNzdGRHNNVWNmcFhnYlZQV1RyMDl0?oc=5",
+          "source": "이투데이",
+          "published_at": "2026-10-20T21:00:00+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "가상자산 과세, 유예보다 중요한 건 [줌인IT]",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBdC03SmViT2RtYklfSTl5RGZsWVBldklKSGduX1BkekcwbzRtQUo0WFNWU0NPTG54OHpKYmRjRTFxb1ZEVEhuWUZMRWlidHB0UmdSS0xFUU5BTWg3TVctclozN2huZmowamxGc2p3ZELSAXRBVV95cUxOZnFPVDMzdnd0RTNJVDEwUW5WLUM2MHRFMEhUQnJNekhUekNwLUg1UUZNOG4wb0JuN0E0T1NiME1xc2VkeGtkMnkzeHRCNlp1YVNXREFXd0t6ZTl6dXJWN2p2VzV5Vzg4QXNHQnV4bm5LNWRWcw?oc=5",
+          "source": "IT조선",
+          "published_at": "2026-10-20T21:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "가상자산 과세 4번째 유예론 확산…정부도 내년 시행에 '부담'",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WSXAzWjhKWmFGelRrSmQ5RW9oTWthSlRETVJvRGd1UDNTNVdLaHJTUUdRSzFwV1l0RWJzR3h3TlZxcVhlUDFlTHkxVV9MRmhWTkV5aA?oc=5",
+          "source": "뉴스1",
+          "published_at": "2026-10-20T21:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "암호화폐 시총, '10조 달러'까지도 가능?...\"월봉 MACD 골든크로스 2~3개월 앞\"",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2bnAyT2lMREhiRnh6OVdINHpiNkNob2hyNk5senVubVVZY3BVR0RZR0JzZjhKQ0JrOHBMamJkV1FsOWRSTWM0Vy1n?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T21:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "이더리움 스테이킹 4380만ETH로 사상 최대…전체 공급량의 35.9%",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UWUo5Y2dKd29Ib2I5T3ozUU9oQ0k5em1OX1BfamZRRjN4dXpvNkJjTkJNaHBqS0JLMVl3Vnd4RU9CMnVtdVp4VmdQc3BZSElj?oc=5",
+          "source": "블루밍비트",
+          "published_at": "2026-10-20T20:39:53+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "윈터뮤트 \"알트코인 자금, 비트코인·이더리움으로 이동\"",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KclpEM3hOWG9EU1lsT2tlQVhQdzk1SUE4Y3YwVE9UVUtUZTd2Rjd3aTBRQm5mRkk0OGo5UzV5bnRxcExBckFxZUxLOU02VVlR?oc=5",
+          "source": "블루밍비트",
+          "published_at": "2026-10-20T20:33:40+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "솔라나(SOL) 알펜글로 D-1...110달러 vs 90달러, 누가 맞을까?",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94QlhIcFB3T3psVFpvWGxyWTA5d1g4T3pOcVhYazZ6MDBzUjFsWEFoT29VdjdSQW9yaEpScGxDQ0ZEM3RxM1NIQQ?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-20T20:30:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "정부, 내년 가상자산 과세 앞두고 의견수렴",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40LXpfWC1oSWhGcVpSTktvZkFpMDNlY1pPSFhvRjFDbjlzcEEtNDNUNm5rVkx5dDMxdVA4aXNBelZyVmtoNWFOVjdxSE9jNXlLLVQtWjNwdVZkeEQwUFJKNdIBYEFVX3lxTE40LXpfWC1oSWhGcVpSTktvZkFpMDNlY1pPSFhvRjFDbjlzcEEtNDNUNm5rVkx5dDMxdVA4aXNBelZyVmtoNWFOVjdxSE9jNXlLLVQtWjNwdVZkeEQwUFJKNQ?oc=5",
+          "source": "연합뉴스",
+          "published_at": "2026-10-20T20:11:26+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "디지털자산 발행 넘어…인프라 공급·규제 관리까지 '일당백' - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZZ3FkN0Q3OE43UURpUEVkQklmdW12NUhYTkZta0dVaGpyZUVNUmVGUGtMVXdocnVzUmZYVTljYnlVNHBMZVBnb3JWTnctUlJyaTZObWNzTW1Yd0xiZDRwb3ZlWkRCcERnV0HSAW9BVV95cUxQSDFpbE1OR05UUHVBRFFWVDU2aE1fZm1rSDlVZnR0YThYNWZTblBLRURZT292aDBiaENEZ19admpuQUwtMkN2eng2MUlwMUx6OTBwVmZ6Z3hYYk9uOUloWEx2U3F5WDUwSXZpaHZzdVk?oc=5",
+          "source": "머니투데이",
+          "published_at": "2026-10-20T20:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "US Tiger Securities, 비트코인 반등에 코인베이스 매수 의견 유지",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HamlFSXJ0UHZmVUpsamdiSzJ3ZjUzZ3hnSjlpMlpCZnlXbWt0bnY0YXc3TldjUFBsbWNCS0V4V2tUeDk2Z0hIMnNJNGp1VDFwNE1yRk9Qa1VNTHVOT1ZDR1RnOE1uaDhOdUp3MmlMQnRSWmpj?oc=5",
+          "source": "Investing.com 한국어",
+          "published_at": "2026-10-20T19:23:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "크립토퀀트 분석가 \"비트코인 바닥 형성 가능성…현물 수요 회복 필요\"",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwY3MtZGVhN1dZWU4xeUxhRS1ObHR2RnlsdF9Zb0VSY1BhZnpRdnpQMDJ6TjNaRHo0Uzg3azdjV2dCLTliZjJSWmdpRFdwM1k4?oc=5",
+          "source": "블루밍비트",
+          "published_at": "2026-10-20T19:05:09+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "단종레 막았더니… '최대 200배' 무기한 선물 갈아타기 바람 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EaHA5QkM0cDE1NC0wZ3NuUnp3aE9JTDZNZlhYZWkzUjdFeHl2Qi1TT0ctMW1PZkdSS0dhSXVPRWVoNHdmZS1hdGQ1TzY2MWhmRG5zZDFzT2dBVmk2VG5OdGNNcDM1OU56TVpmNWF30gFuQVVfeXFMTURocDlCQzRwMTU0LTBnc25SendoT0lMNk1mWFhlaTNSN0V4eXZCLVNPRy0xbU9mR1JLR2FJdU9FZWg0d2ZlLWF0ZDVPNjYxaGZEbnNkMXNPZ0FWaTZUbk50Y01wMzU5TnpNWmY1YXc?oc=5",
+          "source": "머니투데이",
+          "published_at": "2026-10-20T18:51:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "JP모건, 2036년 비트코인 3가지 시나리오 공개",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5U1VWSXExU0dUaDFMNXh0OUFNZjEtaTZjTnlHZTNISlZEX21uLXd5M2RUbjJCQ1VwNVlzNFRIZGVNNUEzV2MtZXh5ejVfdHFHMG5BbDNNUllhRlpLN3ktQlVIOHRacERZMmw2b0NrNDAxQQ?oc=5",
+          "source": "BeInCrypto",
+          "published_at": "2026-10-20T18:35:49+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "제이피모건, 자체 예금 토큰 이더리움으로 확대",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZc1d2N1d5b1o1bVFQM2RLZlZSR2RETW9pWmNORThpQnRXTjJ0dHVLWWxDX24wTDdOVXBTdkF0eG1rT1Y5b0l0VDNlVXRwTXB2cUx3ODRlQ0kyOXVrOUVxQjdWOFJBek04bXZINA?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-20T18:07:54+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "스트래티지·비트마인, 비트코인 및 이더리움 추가 매수",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zTjMyMEUwaTVPV1RQMTY4azNBbU9zZ2ctaU9YMnZ2ZnZBRDJHalZNWFRMRE92ekxSVWp2S3lvakd0T2ttb0NlakxLWGRYYko5ZWoyeTlYRHp6REdiVjliNnFXN2ZFdHlHbTBtNg?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-20T18:04:33+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "카자흐스탄 AIFC 법원, 코인베이스 등 6개 거래소 무허가 서비스 금지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhQTU5WnVGOGFXSWYyc3RUSFA1TUNvRXpnRF9TZEx3NEw1NTlMSmVqVXlsbVBERFcyVXVfMmZmLU4wTDhPSGxTTjM4Z19oUkcx?oc=5",
+          "source": "블루밍비트",
+          "published_at": "2026-10-20T17:56:20+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "블랙록, 비트코인 손실 10% 완충 ETF ‘PBIT’ 추진…하지만 고정 바닥은 아니다",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTBUcjlqMDVjUm0yVEhoRHl0NVJXRHBQbHhfdjFTZXliM3l3cGU0VGd1Z0xUSlJocEM5ZktBR2wwN0hQbTVvc3EtOTZwTl9VQVRwdzdhd3NkWVNDbE82eGVqNnJsTTVBNGxMclJUY3VXM09lNEtEZmw1aXRQYTVSNTBHVzJ2VW5KUGFRZGVsZEs4cmZBY1h1TURVbVZraDB6Z0hOZk93?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-20T17:05:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "코인베이스 혐의는 비트코인의 기업 지배구조 격차를 드러내다",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOam5BNjQ5UXZqaG1Bc1ZOLXVDZlhtc3dDLXVCZ2htMndpNUFYam9hNDdVQ2RkT1Y5NXpfdDRJMXJub3lfbHdlckNXbGF3TGpielhNc2ZKaksxZmJmenNYWnF2OEpqcC1QcUR4N2Q4UG8zS3Bkbi11N19ocFdDZHdKWEVrSmsyUS1BdUJrWXEta3lldnE0TG1Na21EUVBpaFFPdktTR3p0NUZVU1REUzl1ZEhYaw?oc=5",
+          "source": "CoinDesk",
+          "published_at": "2026-10-20T17:02:31+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "스카이AI, 솔라나 비축 전략 중단 및 재무자산 처분",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfNG9jMHlLbFNHTnlYY2JBRmlHUzdfMDgxSkhDN0sxSFpRU3p1NGROdHNVMndyejNXb0szZFZaVWE0MXVvRGN4MzVjZGR0LXZqX1FrcGxWT1E0UWVCV2ZHczJ1cDhsSTdxeUc5aA?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-20T16:58:42+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "비트코인 큰손 보유량 6개월 최고…상승 추세 확인은 아직",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TQmQxUkJDUjFSZzlGemt0YzYyTG8zZnFSNGJidUpvcEtBT0pfbHdwNFVuRzdDSnZhdlNqTkpfT3VXZy1lOTJUaUU1bFNjVEM0dDk5QVZJSS1VTWpLWUlJQ0dsTTJRWVdoN0ZoRA?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-20T16:54:27+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "JP모간, 비트코인 연 10% 수익 전망…분산투자는 ‘아직’｜Global Money Club",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrSlZaUnhhLUN5Qmc4WklJVTR0VkFVOTdnRld3NFQ1eXhqSXVnWlExNzlHNU0zczJJOTFzcTZDT2xRZVJNOElFYWdaWTlPT0YyS2pOeUFSUVFjYlU?oc=5",
+          "source": "중앙일보",
+          "published_at": "2026-10-20T16:40:15+00:00",
+          "category": "BTC"
+        },
+        {
           "title": "스타크넷 \"비트코인 170만개, 공개키 노출 주소에 보관…양자 공격 추정 비용 20분의 1로\"",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAweTFacTA5bVpxZ1E4U1JDUi1sbjFJb2daSWVlV1J1TGpyWFhra29DQUJJcDFzSGppU0t5TGFQYUwxUVQ0eEdnQW9jU2dNXzdK?oc=5",
           "source": "블루밍비트",
           "published_at": "2026-10-20T16:21:42+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "스위스 FINMA, 개인도 살 수 있는 첫 비트코인 ETF 승인…분산투자 규제는 면제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HS1dvR3ZUMzV1R3dndDJMVnVGTDBGYVFON3dnZ1JtRnYzQWVETnVCZnk5QWFsb0UxVnBlX0VOd0U5VEZ4R05EOVFxUV9KdTk2QVJONzB3?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-20T16:21:00+00:00",
           "category": "BTC"
         },
         {
@@ -765,13 +968,6 @@
           "source": "코인리더스",
           "published_at": "2026-10-20T16:00:00+00:00",
           "category": "BTC"
-        },
-        {
-          "title": "이더리움 스테이킹 4380만ETH로 사상 최대…전체 공급량의 35.9%",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UWUo5Y2dKd29Ib2I5T3ozUU9oQ0k5em1OX1BfamZRRjN4dXpvNkJjTkJNaHBqS0JLMVl3Vnd4RU9CMnVtdVp4VmdQc3BZSElj?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T15:49:43+00:00",
-          "category": "ETH"
         },
         {
           "title": "\"비트코인 사들인다더니\"…스트래티지, 우선주 매입에 9배 더 썼다",
@@ -817,7 +1013,7 @@
         },
         {
           "title": "\"美 국가 차원의 카드 돌려막기 중\"…달러 불안에 떠오르는 비트코인",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xc3hkQ0NBcWY0NnE2SlNKb0lUcnloUmVTa0FfMGNZVS1yTmtaYXdaOHRBMy01UWxmQkNyMGt0eGc0UUh3Q1Y1bUc1bEdPWF9mU2pvT3A1N3hta2FUZ0hLNDNVSERPcGZpUkFGazVMYkNwMmVCQXRXZNIBeEFVX3lxTE9xc3hkQ0NBcWY0NnE2SlNKb0lUcnloUmVTa0FfMGNZVS1yTmtaYXdaOHRBMy01UWxmQkNyMGt0eGc0UUh3Q1Y1bUc1bEdPWF9mU2pvT3A1N3hta2FUZ0hLNDNVSERPcGZpUkFGazVMYkNwMmVCQXRXZA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jdGZLckE3c0RPQ2l1aklRYUYwbHBUbEppNy1HZkhwaDFWMUZtbGczam9uWk5kcGtBZnpmNGYwR1JETFF3ZnNmT0JwU2YyczBfV2gycGhFanBROFR6TTFLTNIBeEFVX3lxTE9xc3hkQ0NBcWY0NnE2SlNKb0lUcnloUmVTa0FfMGNZVS1yTmtaYXdaOHRBMy01UWxmQkNyMGt0eGc0UUh3Q1Y1bUc1bEdPWF9mU2pvT3A1N3hta2FUZ0hLNDNVSERPcGZpUkFGazVMYkNwMmVCQXRXZA?oc=5",
           "source": "뉴시스",
           "published_at": "2026-10-20T15:00:00+00:00",
           "category": "BTC"
@@ -858,6 +1054,20 @@
           "category": "BTC"
         },
         {
+          "title": "웹울, 11월 암호화폐 연계 무기한 선물 상품 출시 예정",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjSDFDZlI1R21oYklJTjlYSzBoeWMxX0NQUTlmS0tnQzdVU2JJTFUtb3NNMVVFaVAtQUVqMWQ1c1J6VEwwRjFqLXo5X2hfd3RRY2VXaWo2alcxaHIyblJCczFXY3ZJOEtUQTJFMmw1bDNVNk9SRWpZ?oc=5",
+          "source": "TradingView",
+          "published_at": "2026-10-20T14:27:37+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "이더 리움 클래식 전망 2024 기본 화면과 설정 화면",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMldKUVhjQ2xoZlNoVlRZNUdxX1UzQU5JT09WSHd5RTZjWnVZb1RfTkVwMEgyekV1T0YtVXB6S2RzWDh0bk83MFZsVFNUdGNKX2FxRVRGWm9TMnY3M2dUZWRvdXlUN2d2amNLYnlMN1RHNHV3a3JPYVZ3UjVtMER3NS1mMHlXR3VPbkJpZGd5VW5LS1p3aGl2cTdpcWVxM2lTYmhzN2ZJOUdLb2tRTFZuNi02Qk5CUkRmOFMtUDQ5cmc2MTJsNm9uOGxRa2hQY2ZLTnBJVGdGWFVPNHU0REhUMlpWYnZiN051S3ZWQXpxQkJpZXJyVmNFTlRic3d3T3BIR1RKQkNLV09kenhIbS0w?oc=5",
+          "source": "Calgary Roughnecks",
+          "published_at": "2026-10-20T14:20:50+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "Ethereum(ETHUSD) 종목이 10월20일에 갑자기 2.80% 상승한 원인은 무엇일까요?",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR0R4OHRJMzFQMkRXMGxnNDdaN3FwcTdxOUlYeFNrWURRNHlJQW9QVHBMbW5kcmROeUE3NE9DUDc3UFFaY3JQLWs1SDZ1ZE01YXNGVnI2bzJfU0QxR3NKWDV1V3R1X3dfa2ZVYTNfaHE2YjNfSWpNOGRSbU9lS3RyUUFWdnBLZGd6OGI4VThBdUo5QQ?oc=5",
           "source": "TradingKey",
@@ -891,6 +1101,13 @@
           "source": "위키트리",
           "published_at": "2026-10-20T14:05:00+00:00",
           "category": "ETH"
+        },
+        {
+          "title": "비트코인, 7만8,000달러 회복…트레이더들 알트코인으로 이동하기 시작",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNeGV5cTAwMm5tQWpXNFBZSGgyUWdBRlRPQzZ3Y3JFR0pWcFpxX3dpeTZzWlcwNHZZaGVCTjViN2FzVUZLM1had0RKZTRLcEJlc05qYlJlMldvMzZ3MGJETUxlUkVwbmF4N0xiUnhsNldlWWxIbVVPVF9wYmg3dXV5ZEVWLWlnR2Rzb0NTc1FzaHczdkMzekpZc1pYOFV6TEhFRTY0SG91N1lwenhLdHA2eEpjNFVCb1JEZ3N4QkZJVUlfVHNuVHFMcGV2MTN6TnhuZHJleXBZdGFuT0FIczRFdGJudENpRk5SVTI5eHVkVWxnX19GRGxMenVRZy1CX2ZmdnJzV01NNGptZF9iWkd2X0c4TXl0QVVFUHoxbUVfa3JZUVVGNlpBV1NaSFJ1NkJDWHpSTWh5WGtrZ3J6UElPMnpjaTlRd0Y3R0hkbGRyR3JVMHJKWEdFdWdXSV9oS3pmVE9kaVpkYTQzN3BvS096ZjhQSjlmV1UxX0E?oc=5",
+          "source": "Yellow.com",
+          "published_at": "2026-10-20T13:39:38+00:00",
+          "category": "BTC"
         },
         {
           "title": "\"이더리움 스테이킹 4380만 ETH 사상 최대…공급량의 35.9%\"",
@@ -1013,7 +1230,7 @@
         },
         {
           "title": "다낭시, 암호화폐→법정화폐 환전 시범 운영 3곳에서 10곳으로 확대",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13bWU3VzVHY0xCR2l3SG5wLW9GdTVuQ2R4UnRPNXdEUXNGcEN5ckQ4UG8wYzV4SDNsUFhZYTdjY0w5cVNqTUctMUxNc09fRm1yWWdIV2tEXzB2MkZLRWRyLXY4cHpDTWZMYVd3QUd3WVAyT0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yM0xqUm5KOEtJYkxiNUU0SG5Neng3MnR3UlJPWnVhLWRnTHdKak91VmFiZzc0c0E4N1BLU2w1Z2ZGejN5cUVSRWtETzNoNkxmVml3MVl4SlRPdTEzQU5BZmUtY2tCWm9qckNQTTdSMzE?oc=5",
           "source": "굿모닝베트남미디어",
           "published_at": "2026-10-20T12:04:57+00:00",
           "category": "ALT"
@@ -1040,11 +1257,32 @@
           "category": "ALT"
         },
         {
+          "title": "75만 달러 비트코인, 월가의 장바구니는 이미 움직이고 있습니다",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcG1UZlItaVRnb2dVaE1HbExXOW9xUEZmbVVtbk1JQzhiSlQ0T0tOTmdpWlJ1ejN0UlFrelZFRzl5am92Wkw1ekFvUnVucU1XbEUtVVpFZ1BYMGRGY3ZaYWktQ2tsNEhmTVFQbk9MandhcXJYVWM5YVRoVlhrOGw5bFBWei1tOEY3N1J2bA?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "published_at": "2026-10-20T11:59:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "게임 설명을 읽기 전에 알아둘 2022 년 이더 리움 가격 용어",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kTkpwMk5XMFVFQlVpQS1aUGNwNk85aTJBV1VEUUhMV2FEV0JTT0JGWE04b2hndEJoODBsdllzSlNZMExRSEUwMkV0bWQ1clh4NGxkTzVvU1FpZXRsSExYNm1NblhqSDAtczNsMjBVRDZvYmhkR0tiZGZB?oc=5",
+          "source": "Calgary Roughnecks",
+          "published_at": "2026-10-20T11:53:46+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "월가의 교과서에 처음 적힌 이름, 비트코인이 다음 10년의 주인공으로 올라섰다",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3NSMThkUUl1V2ZFSmtRakdFbmk3ZGh0cmNZVlBQOGpMempXcUdtQUtKNWpNdmE0dWFRYXZ2VnJBYm94b2Qta0ZueDdEWmd1M2IwMnJFZ3FpdGwxY2pkR2k3cTZXUjdYaHpMVllJNkkxMWJqdmZTNmZkUzRsRkNabEpiVmNNWTFoM0JDRQ?oc=5",
           "source": "네이버 프리미엄콘텐츠",
           "published_at": "2026-10-20T11:51:00+00:00",
           "category": "BTC"
+        },
+        {
+          "title": "게임 설명 속 변동성이라는 말, 이더 리움 etf 옵션 승인 시간 용어 풀이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10UTl2QzdobHh4MklsYWhQRE1NN05BaVc3ZlN0aXlEaEtfTFFfY01CdDNsMGU2akR3cm9ZODIyYUlweHhTQWNnMXFXcWRUYTRPczZFQkswekVCdnF6SHVZWFY0dmV0dFFqT1Bj?oc=5",
+          "source": "Calgary Roughnecks",
+          "published_at": "2026-10-20T11:42:13+00:00",
+          "category": "ALT"
         },
         {
           "title": "美 증시 약세에 비트코인 8만달러 지지선 위협…ETF 순유입은 한 달 만에 최대",
@@ -1110,15 +1348,15 @@
           "category": "BTC"
         },
         {
-          "title": "업비트 비트코인·리플 동반 약세…거래대금 1위는 깃코인, 하락 종목 243개",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGaEdZcGhYb0pGejAzaWNxVDVpN3FaNjdxVEIyMDNDelg5TFdlczVMRTBOMU5UOF9GTThsUXZPZGNCc2xQdFNPbFFn?oc=5",
+          "title": "비트코인 28억8,000만 달러 매도 폭탄 피했나…마운트곡스 상환 또 1년 연기",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MVhBNnJWbFJEWnFsNlB5VGw2Rk50MDQxQ0FPWUVIcXRfdXBBUDdfT3ZfWjMwdjRobnRpWVVMZklzVll0dmUyV1Fn?oc=5",
           "source": "코인리더스",
           "published_at": "2026-10-20T11:00:00+00:00",
           "category": "BTC"
         },
         {
-          "title": "비트코인 28억8,000만 달러 매도 폭탄 피했나…마운트곡스 상환 또 1년 연기",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MVhBNnJWbFJEWnFsNlB5VGw2Rk50MDQxQ0FPWUVIcXRfdXBBUDdfT3ZfWjMwdjRobnRpWVVMZklzVll0dmUyV1Fn?oc=5",
+          "title": "업비트 비트코인·리플 동반 약세…거래대금 1위는 깃코인, 하락 종목 243개",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGaEdZcGhYb0pGejAzaWNxVDVpN3FaNjdxVEIyMDNDelg5TFdlczVMRTBOMU5UOF9GTThsUXZPZGNCc2xQdFNPbFFn?oc=5",
           "source": "코인리더스",
           "published_at": "2026-10-20T11:00:00+00:00",
           "category": "BTC"
@@ -1194,290 +1432,52 @@
           "category": "ALT"
         },
         {
+          "title": "화면에 남은 심벌을 해석하는 이더 리움 etf 옵션 승인 시간 유지 기능 안내",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNTXZXUW9wR3ZEbm5mUnExU293Tno5UEpBM2w1YWhDMFRBdW42RW5odDRZQkZIWmtmUHNzc0ZDZ2E5dmpaNENBdGRIYTlZSzNGTW40TzJpVG1HWEdaMG9tOG5qZ1hNbTRjOG1uUzdCNzA0UnFzM01nMXBUZjY5dkVPQW5LUmRKQjVVVW9UUk1TX1pIOGVkWHctZ3lDM0ZMWGd0NW1aZ01KTmtaalRfcXFSWjhqUm1jUkZFbDNjaXRaZzFwT0tjLW5rQWs3RG9BWVljdEZWR2pCbC1EcWxBWjdsY0QxT2ZlY25PcG1yTXlNQURBZ3Z0cWlnMWpzd0ppSUdMcGFnekFjZ1R1VEZLX19vb0N5TDRZVHlEZ1FBcUQ0UlkwLUdkWTZiZm1keU80Z1ZTdVd6Sl8yNUhyMTdOQVZpM2lEN3pWbmd1SWlLWnJkYlc2NF9iMVhrTm9SeFVEcHd2VTJLQlFnVU5DOVVTTmE5WTNDRUNicHoxX2hGakZ3?oc=5",
+          "source": "Calgary Roughnecks",
+          "published_at": "2026-10-20T09:44:11+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "여러 보너스가 있는지 확인하는 네이버 암호 화폐 기능 목록",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObDZDMTFZaFFXZFRxY2xfS0pwVG9RcW5pd1A0SHVLTkhBa0xpemZ3QUFmQnAwc3ZyQzNGdXY4Wk1ndGlCa1FQMC1wMURxWGUyR2VQTG1xLWdyS1JpcUxZekNiR2tDU0VkTTRLSVA2YmdORkpnLUxqN1Jid3RyaDBfSzMwZ28yMWFrR2xpczZmTURKMVItQnVRNUtaLWsyV3FlY0pXTGpWWTdkTng4dmlfenREWDFjQ3FnVGMxc1hwU2daWW8?oc=5",
           "source": "Calgary Roughnecks",
           "published_at": "2026-10-20T09:40:33+00:00",
           "category": "ALT"
-        },
-        {
-          "title": "슈워츠 \"리플, 결제서 XRP 사용 사실 숨겨야 했다\" 과거 공개",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BUFdoVXJaQXp2Yk8xckJ5YWNOTVZUbHNzX2dnYWV4dE5GdGRrUExmcUZoT1RpemY5c1pFTFQ5YldPNVFZSzVJcEZB?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-20T09:40:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "\"이더리움 '글램스터담' 업그레이드 시 위임 스테이킹 공격 가능성…점검 필요\"",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwVFBuN1BTdlRZLXFRVEFiYW9jWEtwU213LXpaUk9lbzd0Wkp4TmMxRC11VHJLWWZvVUpEdDRqUUxNdTVtc1V4ZTBNWkp2Vzc0?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T09:31:55+00:00",
-          "category": "ETH"
-        },
-        {
-          "title": "8만 2000달러 안착 실패 시 27% 대폭락.. 비트코인 롱 포지션 무덤 개방",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIcG1DNHl4aFF0WlIzMlA0a2RIN2tOZF9UQmV0S2dCRVRxU0tPM2JNNHBtMDNVR3pOS3FBcHdqeExSSUg5ZVBWTlF4WlBuNG1TTXczaklVV1RBLXpWRHNXRDNWNmxUVnE1azNUMHBVbTVQMmPSAXdBVV95cUxPX0NsbVNYU0hMb1YyVHFWRzVfWlNxcEV5clM1LTNXQUk0WVVzeHZTbnA0cmhLYVRRRnJBX0QwaG01c0s0Y2xYOEFDcUZBcG9UMVhzVzNpY05LWHFzcElEUTJiM3hvVGdCVHhEdVhvOTZaWm83bFdsQQ?oc=5",
-          "source": "핀포인트뉴스",
-          "published_at": "2026-10-20T09:29:33+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "\"고래가 샀는데 트레이더는 풋옵션 폭풍 매수?\"... 비트코인 저항선 아래 그어진 사형선고",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rdGdHSTBwc1diOUhrYUd0bG40eUZmZE9NSXRyVzZ5MDlRZ2FvdE5mV3U1a1N5cFc0QWZ3YlUzdFUxQlVtT2xPVFR2aFFPNUxRLVNtWkh2SHlNbm9OWW9NcWVNMWoyUkx6RmdYOFJGSk5FeVE?oc=5",
-          "source": "핀포인트뉴스",
-          "published_at": "2026-10-20T09:26:44+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "\"스트래티지, 최근 비트코인보다 우선주 자사주 매입에 3배 더 지출\"",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FUS1xcm1FZW1VZU90V0sxY1haUGFSTWRycmJTZGVrMHJDaVZfbVFtYXc0dzQ2MDVGN21lNGlCdlo5bVdzaFY0MzFTZ1A3X25Z?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T09:25:40+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "\"고금리 뉴노멀 온다\"…시험대 놓인 비트코인",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wUlRUck5hdG9iSmV5SzNjdTIyRnBEUW1SMlJpNTdBVlFoa0Q1cVA0ZmR2cXpzWXVHcndDMFRFVUg0UW5Ia0hUQzAxc2FXOExu?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T09:22:25+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "JP모건 비트코인 수호선 선언에도 떡락 경보… 핵심 지지대 파쇄 시 연쇄 강제 청산",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SWlqTFRjaENOTmRBcl9URTNfY1Z4LTAyY0lERnZ1QTZXaG1XYVZVTkQtUGdNQWVwb2ZSNTVCbzNWaHBBZWxxOVhVT3p1a0N4LWlqNFVxVmQybjhTZ3g2c3BHalR2MGhmYWZYcXJuSFE2Zk3SAXdBVV95cUxPWGM3ZHhOUFQtQTBraVdMelROd3ByYk05Smt6SUVmV3AzeS01dXRDZTRiNnZmOF9GYzRxU3BvSVAyWGgzT015NVlqY01tdVpkM3lHX2tCUXBYYUNSTEd5Wnd5dGZvTVhaTGdXdS1NMHd4MnRCSTdQbw?oc=5",
-          "source": "핀포인트뉴스",
-          "published_at": "2026-10-20T09:22:15+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "재경부 차관 권대영 가상자산 과세 간담회, \"세심하게 설계해 운영하겠다\"",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YdTI2VVR4cUg1UE15SHg5dWVOenNsZllwM1ZvejlDODd3NUlsSEpwOEVEVmtfQURpeTF6UFFWUGdjYjdmQ2FWX0hWZVpNaU9YOTN5bzNCS2dKajlmeWkxNDJQSS1lOHJtR3d3LVJ3dUR3OE0?oc=5",
-          "source": "비즈니스포스트",
-          "published_at": "2026-10-20T09:13:50+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "버켄스탁, 포근한 ‘로마’ 및 ‘솔라나’ 실루엣 2종으로 겨울 채비",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3VVS25ibUpPT0dJX0ZZUW9hdVhNelJ3TmM1V2Q5SzZ2ZnBwOGtDbkhCaXRnajMxTzdFMVZtclVCTzFBN0VkTU44UUhxYklRSlkzbDU1M1h5bEZMVnY3Zjg0UllkQ3hVYzdKWXBmUnk3YzVxYUdUb3FsY21lVll6dF9MT2ZqYVdIWkpqVmozTERDOGdGV2hRSk1MNW5CdlVjbDR3ejI3TWlnZlZwXzJwTXdMT29iVkYxN0hySHF1SVRrLWxCekVkNjJRaGtvUQ?oc=5",
-          "source": "Hypebeast.KR",
-          "published_at": "2026-10-20T09:11:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "JP모건 \"비트코인, 향후 10년 연 10% 수익…미국 주식·금 웃돌 것\"",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIX2tuM01jZWRuSmNDdE9Xc1hJYjZHWTE4NHFDQzJ1aW81V19QdDBGdm51cXdmbE44S3A5T3FyMzlnWmVMWUFDYURuVTNmRTA0?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T09:01:14+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "[업비트] 메타플렉스(MPLX) KRW 마켓 디지털 자산 추가",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KcHk2RkZkYnpKZ2laUm5wRW1UX2d6N1FvbDlVYVNqd2FOdS1UazNKU1hQOG5fNVBicHpUS0NlWXdIQjFKS19LQUtJU3NhQUR6?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T09:00:21+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "이더리움(ETH), 한 달간 -13%...\"사실은 강세장 직전 조정 중\"",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84NXBtSzVRQ3BLOW9vcFlacm8xX2s1eEhsQkVHM0FlZzdHckR2Q0MzWm5MLUNUZ2RhT0pCTmRqaldWc2Q2dlpWMWRR?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-20T09:00:00+00:00",
-          "category": "ETH"
-        },
-        {
-          "title": "美 비트코인 현물 ETF, 전날 5억2660만달러 순유입…한 달 만에 최대",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtc1BsNU5KNkl4U2FjcTNYYlFPSWExRTZmV1ExQk1jVWFfbUdadXE4b25yWmxQMFFHTjZDbjZaLVgtQlZ0ekdUX0xnT19ZRHdK?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T08:57:06+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "가상자산 과세 앞두고 정부·업계 한자리에…준 공백·형평성 쟁점",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nZUNXMGZUOFAxZ3pNcXVITEVUUXd3aXpacDJZWEVDS2cybHlBWm1ZWTd2VVo3UnByTFdXNFFOTWlOR2RIMnhiVFpWX2JVMnJ3ZHM0U24tQ2wwT1R3QThqNml3?oc=5",
-          "source": "뉴스1",
-          "published_at": "2026-10-20T08:55:44+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "준비 안 된 가상자산 과세…내년 1월 시행 ‘재검토’",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40WkdrQkhRSGYxT2lUUXNoWm52NEcwTVZ2LWVsWG1jdURwRk1LLUViUkgzRDRuUVRqZDllaS1MU3RnelU2R09PQVBxWHFNYzhQRDl4TFVreml6UUQ2VzBfVm0xdEFMUkI3U2FybVhiOEg0X28?oc=5",
-          "source": "한국경제TV",
-          "published_at": "2026-10-20T08:50:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "비트코인에 기관 자금 다시 쏟아진다…블랙록 6억 달러 넘게 흡수, 이더리움은 외면",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhcl9wNEdnOXZhRzFVWWg2akRQM05pR0JpN0JERkhYRlc4cHFxU2RLMXdlZUtva3pWeU50VmdFX3gyeFAtQzBnMDhn?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-20T08:34:00+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "美 비트코인·이더리움 ETF서 2주새 2조3000억원 빠져나가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjcHVSZ2RBYUNqd0oyTzhsdXMtUkFibGpRM01YbVNWY2p4cktoWkhOR2J0WXZ4YjNpQUk5MnBsMEljS1ZyNGRlX3Ffemdtckt5ZkE?oc=5",
-          "source": "매일경제 마켓",
-          "published_at": "2026-10-20T08:33:33+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "세 번 미룬 가상자산 과세, 네 번째 유예하나…정부도 \"숙고\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11dW9mMVhSS3Y5ZUdwMFVtZ1AtLV9IdWpXVjREQzBsdHN1ejFGckFnYXpfSWlGdlBGWjlrTmdYcnctbVZuNUhLUnlfQXExelBJUS1ud0lnQzZ1WnVISXlaRUhXMDgtNG9EaVU5V0I3MUFpYzU1eURMY9IBeEFVX3lxTE11dW9mMVhSS3Y5ZUdwMFVtZ1AtLV9IdWpXVjREQzBsdHN1ejFGckFnYXpfSWlGdlBGWjlrTmdYcnctbVZuNUhLUnlfQXExelBJUS1ud0lnQzZ1WnVISXlaRUhXMDgtNG9EaVU5V0I3MUFpYzU1eURMYw?oc=5",
-          "source": "뉴시스",
-          "published_at": "2026-10-20T08:29:18+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "가상 화폐 암호 화폐 차이 과학 탐구을 통한 요약: 원리, 방법 및 기술",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTERZOGxrUEdWNnA2MkQtSWVKTDg4ZHdpZTJHRjFVSXNXckZHUUpJVHhMTVA3VXEwVFVyQUhSX0ZBSlpXc2h3ZV9DalpOU0MtOGw0R0w4YldWeXozZFktQUFHU1JzSzNpUTdWakdRZTRkN2d4Y3pvbmpjdVlCVjlXaC1jYW9UMmdYeExvcVdZeGRwZUk0OVJxSXNQQWZtVFc1RGg4aWZWc2NmMWxCQ0J4ZVI3TzVnQlVtZURuNFlwbU52bzQ4eTZzeU52OWZRakRs?oc=5",
-          "source": "Calgary Roughnecks",
-          "published_at": "2026-10-20T08:27:11+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "비트코인 ETF가 블랙록 덕분에 한 달 만에 최대 거래일을 기록했다",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFBuZmhpZVZVNUxkdGtnaFVvV0ZBVXprWGhDRFVNVkNkeTJMYUlTd1NIMGMzRUpCOXU3T0JkSThLQXdqR3gxdmVxZGpzcXJLS2I0MGxKYnpOX1NGNGo2a0hxT292ZUZEOVQ5TGRQRmlISEV4NngxSnRLVlBWZ0liSnJzLUQta0pja1Nfd1pHLTBOTC1iYmhnSVVuV0FMWkJHOWxjTzlHWEE1ZHFFeVZtbXQ1SkJUUDFKZVFpUGVfUUI0U2x0eUE?oc=5",
-          "source": "CoinDesk",
-          "published_at": "2026-10-20T08:24:01+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "업비트, 솔라나(SOL) 계열 41종 입출금 중단…21일 오후 6시부터",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xTlNXNDkyZUJyYTFIc0ppc0dBWG1LclhUQWxuR2xYQUl2RUNXNE50a2w1Y2stRHJRc1kyRFhyZVMtU3BIUFkxejh3?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-20T08:19:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WczNUSmJfbHR3eVlLdmhJMGVEVmYwXy1RVXNrNG0ydXoweWdoUmpCRGNTejhxS2R3SDdSUlpnaUpxeTlpcTl3ekxWWm5BWlRORklaZVE5NE1MUkRhZ29ZLWNIdFBYcnpVakE?oc=5",
-          "source": "AI타임스",
-          "published_at": "2026-10-20T08:16:09+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "단일종목 레버리지 막은 사이…'최대 200배' 베팅에 300조 거래 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeUFKcjNLZGlvTmZQd2ZBM1hmYWlJNVJqLVRKR3VJOHo2UlQzTHlod2trcXdPOFRxNHI3MTJPdWtpc1lIZ0NRUXNYU25KTkkxT3RjXzJYNDk4LU55ODludjhSVmxSS0MyVXNaN0dR0gFuQVVfeXFMUEF5QUpyM0tkaW9OZlB3ZkEzWGZhaUk1UmotVEpHdUk4ejZSVDNMeWh3a2txd084VHE0cjcxMk91a2lzWUhnQ1FRc1hTbkpOSTFPdGNfMlg0OTgtTnk4OW52OFJWbFJLQzJVc1o3R1E?oc=5",
-          "source": "머니투데이",
-          "published_at": "2026-10-20T08:11:46+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "정부 여당도 흔들리는 코인세…시행 70일 앞두고 유예론 확산",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VTzRuTkZBRkhEVmZ2VzV0QzFIamt1WkpHUGRQUEx4a2t5aWM4UDc0eG1TOU50TGJiYnlQa1BJWmZmd0Zqc3YwLTJ1cWNzRnN2NmdRN1p6dW8?oc=5",
-          "source": "뷰어스",
-          "published_at": "2026-10-20T08:08:57+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "비트코인 8만1000달러대 하락, ETF 5억달러 유입에도 약세",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fLVh3NXhJblFLRUR6RVJSMDJYeXhSLUVONmZ6Q2VWZlphdW9kZW11Z1VYd0s4aEp3MGlpLU5scnUtZVJSZms4Yy1tbnNpYVJsRHJ3N2h1SQ?oc=5",
-          "source": "CoinNess",
-          "published_at": "2026-10-20T08:05:35+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "코인 과세 늦추나… 정부, 가상자산 업계 의견수렴 나서",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YUI0REhCYXpjWHdWU3RwOVg4ZV9GclVoZFZKd0J5U3J3ZVlLQUhyb0tTX1VxTXZGRTlGdTZyU0QweUxIeTRnM1VsSlphZldzX3pnbU13TGw5LUtsd0lIWkZ1NHd2OE5hdHMxWlR6a3FyaDRU0gF0QVVfeXFMT3phQjRESEJhemNYd1ZTdHA5WDhlX0ZyVWhkVkp3QnlTcndlWUtBSHJvS1NfVXFNdkZFOUZ1NnJTRDB5TEh5NGczVWxKWmFmV3NfemdtTXdMbDktS2x3SUhaRnU0d3Y4TmF0czFaVHprcXJoNFQ?oc=5",
-          "source": "IT조선",
-          "published_at": "2026-10-20T08:01:23+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "디지털자산기본법 지연된 사이 올해 63조 원 해외로 유출... \"2단계 법안 조속시행 필요\"",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDREJfenF1YkVzTVRESEhaQTdTM24xa2NkOFdPZTcwWGpMTUktcUhzTERJNms5RmxYMzRwb3phWjdleHVFRGtTTWdHRlB4YzlKZGZCbk5MMk85UUNXdVYzczlVNFZOc0NUUWxOaEZ0SWZQaTg?oc=5",
-          "source": "소비자가 만드는 신문",
-          "published_at": "2026-10-20T08:01:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "재정경제부, 5대 거래소와 가상자산 과세 논의…재유예 결론 없어",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vRFBEWkI4Mnd6dlJuVF9wci1UdWdRZlNkckNwdDNlOHJEVXNCc2FpaWx0NElSa19UMmxxTGVPVHV0VFZqSnpFMFFEZDV3a1BQZWc0dnVjT21NdzVfUTFZNTVqYzhpdw?oc=5",
-          "source": "PRESS9",
-          "published_at": "2026-10-20T08:00:11+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "암호화폐 슈퍼 사이클 온다?...\"비트코인(BTC), 중국 WTO 가입 때와 같다\"",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fUE5BLUFIRTNqb2xGdGd4d2c2d2Q3TFNkb3pETGotRElndzdsemFhRTlnMFFBWkFIZkViUmE4am9wT3k1SWhvb1hB?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-20T08:00:00+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "\"엑스알피(XRP) 고래 출금 5년래 최저…대규모 매집 수요 약화\"",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mVHpqWWpya1ZLcW4wNktSUURPWnZDNXZKckNrT04tQlFnR2ZrNnhMNm1ULXlBaHpBOVVlRFpNQmcxN3VNbVVqZVdYY3Vsd3po?oc=5",
-          "source": "블루밍비트",
-          "published_at": "2026-10-20T07:55:42+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "코인 과세도 후퇴하나···‘내년 과세’에서 ‘업계 의견 수렴으로’ 기류 변화",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JX2JRb3ZCUl9lRld2dThQSXlXQV9LVzVCbl9sWVVWbnhueWN0ckhXbTBGeFFmMGJxcGxTMkZZSkRuYzlfVmxaQW9WLXYzOHlZSkVpbS14TlcwNlpsZi1Z0gFfQVVfeXFMTUlfYlFvdkJSX2VGV3Z1OFBJeVdBX0tXNUJuX2xZVVZueG55Y3RySFdtMEZ4UWYwYnFwbFMyRllKRG5jOV9WbFpBb1YtdjM4eVlKRWltLXhOVzA2WmxmLVk?oc=5",
-          "source": "경향신문",
-          "published_at": "2026-10-20T07:53:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "가상자산 과세 앞두고 유예론 재점화…업계 “준비 기간 필요”",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rNXFrM2M0Vnp2NDJ2YklMTUljZkJjUWtjY3JGRmFuZVpraWtpMTlkajByUlBwMnI3WkJPSVZQTEJMdTBiRUl3Z2pQODVnTUR6UUo4ZGxRckFzb0hQX2Z1WDhDNjl6WVBTRGNvZUJ2OA?oc=5",
-          "source": "이코리아",
-          "published_at": "2026-10-20T07:51:22+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "애니메이션이 끝나야 조작할 수 있나요? 비트코인 시세",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMDVuU1lTbVJfUTlkbHFILS1RV3ZGQ3hxR1E1YnpsRjVfTVZFUWdSY0FvdFlvVEl3b1JXeXNCdjZwUUtoeXdaVjhfY1lsSDdHZ2RDM0ktV0tWR1kxclBnemtiZkpjRnhGU1ByMGx0cGE?oc=5",
-          "source": "Calgary Roughnecks",
-          "published_at": "2026-10-20T07:44:15+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "[ETF 특징주] 美 비트코인 현물 ETF, 한달만에 최대 규모 순유입",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WMEQ4clJ2dG9HUXdDdnpSOW0wWnRYSGJpT2lZX3lYZ0hpYzZ6OTRPODhZNmNUOGtQaHJIVG1hZEwxOFBFR3ZyV1A0T2VqNFB6NjhmM1NWcGxIbHoz?oc=5",
-          "source": "뉴스핌",
-          "published_at": "2026-10-20T07:44:00+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "“가상자산 과세 기준부터 명확히”…정부, 내년 시행 앞두고 업계 의견 수렴",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJb2JYcUJacEJjNTZxMnNKRGRhNzZ1SURUOTBMREtGaHllZEJyV19UVmsyU1ZnVjUtX25tcHBWdUF4dEZlS1dTUm1OZTQyWUlfVzBaWFUza244cVg3aDMzQzBPWFE?oc=5",
-          "source": "디지털데일리",
-          "published_at": "2026-10-20T07:41:18+00:00",
-          "category": "ALT"
         }
       ],
-      "news_updated_at": "2026-10-20T16:59:21.554201+00:00",
+      "news_updated_at": "2026-10-20T21:34:24.881083+00:00",
       "quotes": [
         {
           "name": "비트코인",
           "symbol": "KRW-BTC",
-          "price": 110313000.0,
+          "price": 110376000.0,
           "currency": "KRW",
-          "change_pct": 0.10344921,
-          "as_of": "2026-10-20T16:59:20.368000+00:00",
-          "fetched_at": "2026-10-20T16:59:22.130872+00:00",
+          "change_pct": 0.16061852000000001,
+          "as_of": "2026-10-20T21:34:24.668000+00:00",
+          "fetched_at": "2026-10-20T21:34:25.502680+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "이더리움",
           "symbol": "KRW-ETH",
-          "price": 3270000.0,
+          "price": 3264000.0,
           "currency": "KRW",
-          "change_pct": 0.98826436,
-          "as_of": "2026-10-20T16:59:21.735000+00:00",
-          "fetched_at": "2026-10-20T16:59:22.130881+00:00",
+          "change_pct": 0.8029647900000001,
+          "as_of": "2026-10-20T21:34:24.031000+00:00",
+          "fetched_at": "2026-10-20T21:34:25.502690+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "리플",
           "symbol": "KRW-XRP",
-          "price": 1770.0,
+          "price": 1773.0,
           "currency": "KRW",
-          "change_pct": 1.02739726,
-          "as_of": "2026-10-20T16:59:16.589000+00:00",
-          "fetched_at": "2026-10-20T16:59:22.130885+00:00",
+          "change_pct": 1.19863014,
+          "as_of": "2026-10-20T21:34:23.080000+00:00",
+          "fetched_at": "2026-10-20T21:34:25.502695+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
@@ -1487,8 +1487,8 @@
           "price": 142000.0,
           "currency": "KRW",
           "change_pct": 0.56657224,
-          "as_of": "2026-10-20T16:59:21.622000+00:00",
-          "fetched_at": "2026-10-20T16:59:22.130889+00:00",
+          "as_of": "2026-10-20T21:34:12.334000+00:00",
+          "fetched_at": "2026-10-20T21:34:25.502699+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         }
