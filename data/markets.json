@@ -1,14 +1,63 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-25T16:10:58.103911+00:00",
+  "attempted_at": "2026-10-25T19:00:26.470614+00:00",
   "markets": {
     "kr": {
       "news": [
+        {
+          "title": "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tWGtteEtEVURNUWh4QlZpMUszQVAybE54eWZSemJkQktmdUQwUXRXd3NYX1c3S1A4UFJmX1Rkd0pDcG1Ya21wRUFYa0swb04xV3hkUWtWeHFlYzB4ZHRyY21NWGlFU29MZHdmdEx0WUdKSUdHOHfSAXtBVV95cUxNeDBGYTdaTHRoeUhHRDJoZW92Sm1aaFBFaVBWeTRlVDdzR21kdUhVaEh1MTMyVFEzUkFaQnNDRGYwTGxkbDRKaHg0eEV4c0FvcXBLUXVQZUs4Y05GZmFVd3h4U0xDZURwNWZYaGNZX3BpRFM4UmVLR1VlTjQ?oc=5",
+          "source": "머니투데이",
+          "published_at": "2026-10-25T18:28:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "디에이테크놀로지 코스닥 상장폐지…거래소가 밝힌 사유는",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oYnBHM0dacFFaSHVvWDRhTUlWT0dPeGs4cjVBd0Q0ZlR6bUZZVGRTMV81d2lCdU9RU2NrVDJTNGdvVmFYTVFYSjltRkxKY3FCc08tc3R4MFpNOFdIdDdiaTFRbjJtQQ?oc=5",
+          "source": "비건뉴스",
+          "published_at": "2026-10-25T18:09:18+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "\"AI 거품·고금리 여파…11월 이후 신용 리스크 본격화 우려\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OS0sxLVl4Z1k4WnZuRFp0c1FFbVBRckRHbWg2cVN3azRDN1hRRmt6VERxTldLZEpKeHhuS2hDc3pnV3FJT1BadEZ6WHhkVXlTMEpCeEoyWmo0czZQTnZ3d9IBeEFVX3lxTE5lRG1ZcGN0Q0xQME1OYU1pR21PLVk0Z1o1eExtWndIOVdqbFNnZ25iQ3cxMFNrYWxxbkg4MlNLaWNfeFZPejhXbFFiamtrX2RoVTdPS2hQVzFXZlpRM293SWdMbHIxdDR4UjJoOXJ5eGJaY21zT01GVw?oc=5",
+          "source": "뉴시스",
+          "published_at": "2026-10-25T18:00:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "부산주공 보통주 코스피서 퇴출…거래소 심의서 폐지 기준 해당",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81clhrZ0lpZUhQTEZnT2RGSmFTek40anZFdTN3b2tYVXI0XzFhUjZjMFRYRzAzRHQ1cHRmWU5IZ3NyLXVJOWpaMlBYYXhENzBuWUhySkt2MHJjNXZaZjhyZVB3N3hEUQ?oc=5",
+          "source": "비건뉴스",
+          "published_at": "2026-10-25T17:56:46+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "하나31호스팩, 예비심사 미제출로 코스닥 상장폐지",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1RUpWWER2TDlKUUxvY242VGw5WENOdTg1c0tCdlhjSGYyUkZIVWU0bXE5bGdLUFl1ZERQcUpkT2sxWFI5bDZmeWMtRV9CRi0tNS1SV21TdERqdm95eXhpVXdXWWlNZw?oc=5",
+          "source": "비건뉴스",
+          "published_at": "2026-10-25T17:12:46+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "한창 코스피 상장폐지…2년 연속 감사의견 거절",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IUktldHRTcDlBNzBoaEo2ZzJVb25vRHgwRk4tRk5ZWVZBQ3VlSWFEaURkRXJEMUJfZVQtRHNKVFlFME9EZENBQXdDNm8zVkJNRWpsRUpUUnFCY3Q4TTNFZ185TVdIdw?oc=5",
+          "source": "비건뉴스",
+          "published_at": "2026-10-25T16:59:51+00:00",
+          "category": "KR"
+        },
         {
           "title": "골드만삭스, 코스피 목표 1만2000→9000으로 하향",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjJEWG9aM2FaRWZMd056V3dCTE8xTXlDNVJLakhvQWJwLVZsZHdsS2xSbzJVdEo1MDUzTFlKdTh2bGZUZzNWMnB3LUFPNmNBZnRlOFBqUkwtRGxLYVBqUHo0QWY4NlQ1YktrUGktU3NtNmVUaXZXdGxQTlE2eTJGSUw4Q21zOXBr?oc=5",
           "source": "글로벌이코노믹",
           "published_at": "2026-10-25T16:00:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "코스피 목표 9000으로 낮춘 골드만삭스…그런데 “상승 여력 60% 이상”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OalM2dWVSNmwyempBUFF3ek8wQTIzUmtXZ1ZiYmNXV3lSM3lDb3g0T1Z4MGR4cHlldGV4dkJiTFZSaS1HQzBwYUNtRndtTjhXTGFnLXZIeFpvSmRDTFByc2dHakpZRmdBMVHSAW5BVV95cUxQYW9vb1czVUQ1eTNzTTlNZW1Wem5fcW02ZEdUOVo0cm9WeHVaNWxGMnFNaDVBbW11UDFIVTZGMDQ5T3JIa2FrSE5RZDNPbzNQUnZwNTFiZ3JmenhmYnVBMVpQNFppQkQtcHhoaTNfUQ?oc=5",
+          "source": "주간조선",
+          "published_at": "2026-10-25T15:20:00+00:00",
           "category": "KR"
         },
         {
@@ -33,6 +82,13 @@
           "category": "KR"
         },
         {
+          "title": "＂코스피 1만2000 간다＂더니…4개월 만에 돌변한 골드만삭스, 왜",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95a1NuNy12bWZTREk0U09RRGFKQnBZdnRLS0IycXAwYWU4M21FZF9kbG45VlI1OWFlcWFhYWxtYjBsWGZldE5hTUloRmR2bjNVWU5MSktzNFY4eXd3UWNjaTZIb2dOTFpmdEtRR25Sa2djUnhIS1pr?oc=5",
+          "source": "한국경제TV",
+          "published_at": "2026-10-25T14:26:17+00:00",
+          "category": "KR"
+        },
+        {
           "title": "골드만삭스, 코스피 목표 9000으로 낮춰…“주가 저평가는 여전”",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yUktJdXJNdjRfcHZJVnZod3VOd2tXbEIyT1BtR01jeGFfSFQ1bjRvbk0wbU5nMlotMUY5VnVobTRRY084N25vWjBtZzlnQXBzdU9CU01xQ09pXzZ4Rl9Ebw?oc=5",
           "source": "메트로신문",
@@ -44,6 +100,13 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tU29zdXBkeVpNX3ZFWkJuSjF5TlVPdktaZ1JSWHU1aW5xMWFjcmNtZFk4R2pKYWFrQjc4TjhGaTFuRHU5dE9yYmtqN3hvVGRy?oc=5",
           "source": "문화일보",
           "published_at": "2026-10-25T14:23:56+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "‘코스피 9000’ 눈높이 낮춘 골드만 “상승 여력 60%” 반전 전망",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuLTRGWTJtT05xVE8xb3VobnFMUm1Ga0R3NXlPWVdZOTFpMEpEak9qbm5lQS11aUtCaXpsN0Fwdy1Hcmtrc3pUQTlXQXVtcTFpNWZDLWlR?oc=5",
+          "source": "중앙일보",
+          "published_at": "2026-10-25T14:21:03+00:00",
           "category": "KR"
         },
         {
@@ -69,7 +132,7 @@
         },
         {
           "title": "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WNTRRU05McE9WUDhzUVF2MTVpeXQ4ZENvaVgwcWljQ3h6dXFuQVpiUGktZHF4bld6emlYamZmMXJFeDNGU0RjNzQzX0VOVW5mZnpZZ3JENlMzQ29LNG96NUI1UmhRcExESzZuNTB6OC1IdkI3LVpCeNIBeEFVX3lxTE1WNTRRU05McE9WUDhzUVF2MTVpeXQ4ZENvaVgwcWljQ3h6dXFuQVpiUGktZHF4bld6emlYamZmMXJFeDNGU0RjNzQzX0VOVW5mZnpZZ3JENlMzQ29LNG96NUI1UmhRcExESzZuNTB6OC1IdkI3LVpCeA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zV2JqMGphZnVtbXN6S1Q5elg5RHBwd3hQLXpkTkVqNnJyNmFTZmpKTjR2RFpqWl9acE8zUUZidFQtZ3plbGFsaW5DSmFLMGNaR1lhM1ZTXzFtZmo1aFQ1TNIBeEFVX3lxTE1WNTRRU05McE9WUDhzUVF2MTVpeXQ4ZENvaVgwcWljQ3h6dXFuQVpiUGktZHF4bld6emlYamZmMXJFeDNGU0RjNzQzX0VOVW5mZnpZZ3JENlMzQ29LNG96NUI1UmhRcExESzZuNTB6OC1IdkI3LVpCeA?oc=5",
           "source": "뉴시스",
           "published_at": "2026-10-25T13:43:33+00:00",
           "category": "KR"
@@ -138,6 +201,20 @@
           "category": "KR"
         },
         {
+          "title": "골드만삭스, 코스피 목표 1만2000→9000… “상승 여력 60% 이상” - 조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXc4MWlIa1YteUtfNWZDVGtZNEJNcVgzTDJiYWFDS3B6RmJuazFqZUNMQy1jU0lORDBVTWNGeVBZTWYwR3RVVGJ1UlYxMVZNRUtYeUFNQm5pNUlVbnYzdkhvWS1FYThYdHRRTUFUZUdEQjhWTWtBZzlWUmpDNmhKdDlNbG1HMUpwTW4tOFRueWMyejlSRENHMHU0SkFPZ9IBsgFBVV95cUxOeXVfSHBfZ3hGaG1BZUlXWm50Mm5NblRZWXVHMmgxZElLdWw1eTF5SHFGM1p0NlJrU183NEZhdW5KV3pZUDk4MENjWVNraFNjSVUzOEU5ajFTYUwwcWk0bkZqYmd1LWZCdmx5U20wN1RqY2ZkLVZYMTEzT1dyUEJxMXFTUkdTbGI1M1FRNTI4alg4RnYwN1hPaG5Ub19XeFY0SUFINExkN1JSaHdQSFp3elVn?oc=5",
+          "source": "Chosunbiz",
+          "published_at": "2026-10-25T11:56:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "골드만, 코스피 목표지수 1만2천→9천으로 낮췄지만...\"여전히 3500P 이상 상승 여력\"",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWlNmLWVaSHBzUTNuNjk0bWdwckRaQmxHV1JfLXhDNUZxWDBhalAzRGhQVWNKb1dqLWV6M0xSNnVpR1VkelRmOFlMdWNFOTd6RVcxVDMwaElPQVNQeHZRMnF1ZXZLNVN3QWVaUg?oc=5",
+          "source": "생생비즈플러스",
+          "published_at": "2026-10-25T11:32:16+00:00",
+          "category": "KR"
+        },
+        {
           "title": "골드만, 코스피 목표지수 1만2천→9천으로 낮췄지만...\"여전히 60% 이상 상승 여력\"",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWlNmLWVaSHBzUTNuNjk0bWdwckRaQmxHV1JfLXhDNUZxWDBhalAzRGhQVWNKb1dqLWV6M0xSNnVpR1VkelRmOFlMdWNFOTd6RVcxVDMwaElPQVNQeHZRMnF1ZXZLNVN3QWVaUg?oc=5",
           "source": "생생비즈플러스",
@@ -201,6 +278,13 @@
           "category": "KR"
         },
         {
+          "title": "역세권 투자 시점은 언제 [한경 프리미엄9 TODAY]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03TW1OalFaUnkxUm9QalZMZm0tVGM0QjdJUzhaMlF2YUdLT2MyeUpURzVoeE8xZnAyTUJxQzZ4elFxU2doTWRtamZoVTRnaE5jT2xYaXpmYTlJZw?oc=5",
+          "source": "한국경제",
+          "published_at": "2026-10-25T09:44:56+00:00",
+          "category": "KR"
+        },
+        {
           "title": "삼전닉스, 이번주 반등의 시간 올까 [한경 프리미엄9 TODAY]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03TW1OalFaUnkxUm9QalZMZm0tVGM0QjdJUzhaMlF2YUdLT2MyeUpURzVoeE8xZnAyTUJxQzZ4elFxU2doTWRtamZoVTRnaE5jT2xYaXpmYTlJZw?oc=5",
           "source": "한국경제",
@@ -212,6 +296,13 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ndXJRVkhFamsyYnVQbFZuQ1hrQVdqUl9SaVZUVTFtMElSNmFjSW03dWFHSWVQWVR0S2UtdFpRenVEUXduUFBNUjM0VTFUR3BTUTh3QUpGWl95V3VmOG5DTFJvZVBkU0E?oc=5",
           "source": "지데일리",
           "published_at": "2026-10-25T09:44:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "[과매도 우량주 리포트] 🚨RSI 과매도 구간 진입한 우량주, 섹터별로 짚어봅니다 (2026.10.23 기준)",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYlg4dFZORV9ONDVGblRkS1VhUHJjYktsRDk3X2V6U1VaTUtOb1ZfQ0pneFp6Rk5WdDhMTHFKZ05SWG5FZHh4RkNYbmEtTWJ4dUQ3MDNyeHctRUpzUWR5cTlQeDhQRFkteW9rVHVaZzllV3IzSi1pZG5DMmxXb1JqbFNKV3ZDc2Z6UUE?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "published_at": "2026-10-25T09:22:00+00:00",
           "category": "KR"
         },
         {
@@ -296,6 +387,13 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JTFZKOGVId0tGbEg0eEx4MnREZ2UxWDZwc1ZON2VGdVJCb2dtaFpXQnlBTElqajh2SnhIYTdpdEd1TGhtNGpwR0xiQkR2eWR5V0MxbkZnaWhBQQ?oc=5",
           "source": "한국경제",
           "published_at": "2026-10-25T07:37:16+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "[쇼츠] 30% 폭락한 SK하이닉스…반등 가능성 커진 이유",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNHFfN0x4aXhORjJtNkF1TURqY1l1TnFHdWc1ZkpGRDRENjkzV0trZHhMYl9XT1ZNZm02WmRlRy1GcW9pejB0bHk5d3hPaU9SeEJWTzlaZmowWmFVeExwVmY5aTcxRW16eEE?oc=5",
+          "source": "콕스뉴스",
+          "published_at": "2026-10-25T07:02:52+00:00",
           "category": "KR"
         },
         {
@@ -391,8 +489,8 @@
         },
         {
           "title": "“요샌 주식계좌 확인 안합니다”…대기업 시총 한달만에 1100조 사라져",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1OERZZ2VvNlZYQXFYUmJHUC02b2dOOFN3YUVZSDZZZDNOem5YTEVpZVdBcTFMeWZZRzhZeDd4YkRDWk9vMUlMNXhCVl9OcktzaHc?oc=5",
-          "source": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Ia184NjBGR21SZ3RDVk9mYnhGWFU3eS01NjZieUk1UjFCYzBxOEFMV0NBWjNWM3pzZi03YXE5Q1hkTFdZVmc?oc=5",
+          "source": "매일경제",
           "published_at": "2026-10-25T05:21:31+00:00",
           "category": "KR"
         },
@@ -524,7 +622,7 @@
         },
         {
           "title": "코스피 급락에…10대 그룹, 시총 1,101조원 감소",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ad0lXZXp2ZmtvdXFKX0FqTHZuQjJfU2VsZkV3eU9BZ1J6dXNuLVNpdGRSWXFEMzhJcmpTR0ZyVzFvM3pSWTVtM202WFo0VWkxdFBXdzlmbWJiaTFqVTNjU2p2WF9hM1Y2eDF3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmaTNMWWNCZ01wemtTNGlrM3o1eW05UFZOQVp2XzJqckNSUVZ6cnJENTNhY0VQaFd4WGpiQjB3VW1VLU55RF9mSERDdjh3SDRrbTZXTmRuOW9VdU9xYmdicjhSLWJvM1Jx?oc=5",
           "source": "매일경제TV",
           "published_at": "2026-10-25T02:56:00+00:00",
           "category": "KR"
@@ -605,107 +703,9 @@
           "source": "산경투데이",
           "published_at": "2026-10-25T02:09:13+00:00",
           "category": "KR"
-        },
-        {
-          "title": "코스피, AI 수익성 논란·중동발 고유가에 출렁…美 FOMC·반도체 실적 촉각",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVEZpT1NmUWVrSkhGZlJ2Z0NiWnJfZ202QkkxNmR3VXlSNE5JN2tic09ZV1BkY0ZNeng4OXpEZExBOXRmRXhoOHJxbi1Mc0RfMTVyR0l1T09GZnk2ZXdaV3dhYmpjYk5CU3BQcnIwclplMjdj0gF0QVVfeXFMT1JURmlPU2ZRZWtKSEZmUnZnQ2Jacl9nbTZCSTE2ZHdVeVI0Tkk3a2JzT1lXUGRjRk16eDg5ekRkTEE5dGZFeGg4cnFuLUxzRF8xNXJHSXVPT0ZmeTZld1pXd2FiamNiTkJTcFBycjByWmUyN2M?oc=5",
-          "source": "산경투데이",
-          "published_at": "2026-10-25T02:07:18+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "한 달 새 1101조원 줄어든 10대 그룹 시총…SK는 30% 급감 - 조선비즈",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXZJWmtBLXltaUk5MGxYOUlFVDhkR2w5Q0hQWEMwMWh0dkpiV1NtOUVvUnRoUlUyakZhdjBWMVBHNXR3dFE2Wkd4WmRUdkVjWlR5QW1vZnp5Y0hqVldxbWZYSVhidWMySHFLTl8tZHZleE1XaHZpZXdUT2t2UDRFbHVjNmxUdUVh0gGcAUFVX3lxTE9WUWJ4anlLdW9EbFZQd1lYMURGQnFlUlJVUlJOTWpGMnJxRWY5bktnWWlYanBCaTRpdnp5dHFFelJHbGhTNUpheUw1d2ljMmVtN2FGdjh6c3pib0phWVlEMDRLc1l1RXJ3TUphdWVBODIyVk5FQ1lsVnJmeU1qWWZYWHljWGs3dkctNGhta1RkLWN0ZUdBYVp5Mi1RSA?oc=5",
-          "source": "Chosunbiz",
-          "published_at": "2026-10-25T02:01:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "\"코스피 떨어지자 개미도 짐 싼다\"…예탁금 4개월 새 51조 증발",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oeGVKTG1DbXI0M0VxWEs0cUNNZV9tXzBXcTF1anhvOWc0VmlhdDgzLTFuLWJmNVViNGpmSmJaSVhiY2JpMHNxUU9HaXZrTmZKZDQ4Q19qX0VGb2tTaXpnRNIBeEFVX3lxTE9LQklTY19wNEttRlRCR0NyX0FxOWhFSTVLODdDQWRRSHo3ZmNBaWJMd3ZEendIbTdmYk9jLXpHTU1PekJiekFHaEYyWmZvOURZSmJ5ZUtXVTloTmtUcXNUTFRlMkZ3TlJTbEVqXzVUTEplN2FQLTEyWA?oc=5",
-          "source": "뉴시스",
-          "published_at": "2026-10-25T02:00:29+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피 급락했으니 다시 단일종목레버리지?...개인 순매수 돌아서",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wb1ZCbDJLdG5lOGQ3YXNsYWNoWGlOa3VKYW8ycUFTSk42dHd0TTVaRURpWnpsX2hSUTl0S2dVYk9Nbi1YUmxUTFE4MWJUampHaWJBUQ?oc=5",
-          "source": "매일경제",
-          "published_at": "2026-10-25T01:56:21+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피 급락에 10대 그룹 '와르르' … 시총 한 달 새 1100조 날아갔다",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM19wRFEzb1FnXzdPTnNmT0lWYl9xTW5uY3VncGY5eEt3bmV2ejY1b1VYRUVKUTE0YURZbzc1TlQ0c3ZWc2Jka2FMQzNRS1Rsbkp6MGdndkg0cV93emt4NXZ5QlhEeFYyY1FJNFJteVFaYkl3TXdOWUdDamd0SWdIbNIBgAFBVV95cUxNM19wRFEzb1FnXzdPTnNmT0lWYl9xTW5uY3VncGY5eEt3bmV2ejY1b1VYRUVKUTE0YURZbzc1TlQ0c3ZWc2Jka2FMQzNRS1Rsbkp6MGdndkg0cV93emt4NXZ5QlhEeFYyY1FJNFJteVFaYkl3TXdOWUdDamd0SWdIbA?oc=5",
-          "source": "뉴데일리",
-          "published_at": "2026-10-25T01:48:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피 9000→5500 추락했지만…개미들, ETF 80조 순매수 - 조선비즈",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamlDbnllWFVpQXZseUNKeGFKbmxhUS1PWDJBcmhjSWptaTZsd01UTWhvRUtSVTkzbjlGR0JVTlFUTzRPMzI1VmxSMTQ1Z0YxSjRkLWpMakZ6N1hxb3JVLVdnU3lwQXZRRGJHdVJFSTFud0RYdEczUmpIQjl1VG1obkt2VVNFZDl40gGcAUFVX3lxTE5Fa3JmaXRKVUF0cFNTamtQaGhKUDF5ZkROMEtxVWtzQnJEd3V3bkF4U04xSERmQmpaTHJfMzRTQ1NwYmRTRFg1YmNCSUJzYlAxWW1aSi1DYkpyRE1veXd6Sjh5Q3JfdU8yaWZGeWx6aDhKWGtUQ1RKbEd6bl9oSWNvV1JBeGZGV2VUWmNmRXg3X2w2U3pEZFQ2X2tlcg?oc=5",
-          "source": "Chosunbiz",
-          "published_at": "2026-10-25T01:46:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "솔리다임 상장 중단에 한숨 돌린 코스피…이번 주 향방은",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vUks4ZWVaQzAtRWFwalp4MWNKelJKTU9vcnZRZ092THJhUHBjbm9QYlRLX0tGZzN0dElOZGZmUnZNQjFhTVVaS2hacDliYVI5VGtTT3VxV1V3TXZUOU1sWGxLb3dGc2t2QlNSakFPS2ZVcnRLelZ3?oc=5",
-          "source": "한국경제TV",
-          "published_at": "2026-10-25T01:46:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피 급락에 10대 그룹 시총 1100조 증발…삼전닉스에서만 995조 날아갔다",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xUzE1VGtyckgtdWJFMFB1eHNCb1piMVo5MUliMF9NdldaNkxCUEduU1c3OVBKQmlUeUY4NkYzQTREQko3WFN4bEI1UWRoT1d5TFNSdlNVQ2hRSWRxNFp5Wjk2R1NsTFk4REhRbFJ0Ul9EbmNIVGfSAWZBVV95cUxPM2tVRlMzMk4zQzdFckd1aGxPUkhreDhwSVJ3dml1MnN4SF92VmIxMl9OdnROX0ZsWFJrTENTZFlXc1Vld0lIZnUxSjdCSmhCMm9hbzE4NGVmak9NV3VkMkRPbUlTUlE?oc=5",
-          "source": "동아일보",
-          "published_at": "2026-10-25T01:43:25+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "에코프로·에코프로비엠 등 그룹주 일제히 하락…코스닥 약세 속 새주 향방 '이목'",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GYzdUUktKZlE0M281eXJkS1ZTWlNDTmRwNmFYUTdFd1Fza2RpczNNYVRJMUlXVWVTdU4zVlNVQ2p2Yjk2MFB3LTFpU25yeWpkMk1kS1ExaTdwZTZZWVU0RGFGWl9tczJl?oc=5",
-          "source": "CBC뉴스",
-          "published_at": "2026-10-25T01:40:00+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "증시 급락 직격탄 맞은 10대 그룹…한 달 새 시총 1100조원 증발",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iVFJoT2RBQnkwc1RYZ1dTMXB1ejlBSXRaT3hheWhaQWY1VjRlT0JzaXNfSXpIU0hWX0phSVBhOTZfblBRUTNzampDZEZDVFhYVXJyaUdvRFB4QTAzdXdlRjNxbFZ5eGJPRGh5cG9YNNIBc0FVX3lxTE5nN3ZXc3o1akVQTW1JcE82aWxzTTJzU3I5d3pONHZ1ZWRJbGZILURTclZ2Z3I1cFcyM2hPU3FRVzlhMTZtS21yS2ZwVUlMT0V1UWU3ZGtoTWV6cWtJcnl1RkxYVE0wc2xoT3BuU2RNcmc5WGs?oc=5",
-          "source": "시사저널",
-          "published_at": "2026-10-25T01:38:31+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "지투지바이오, 코스닥 약세에도 20%대 급등…새주 주가 향방은?",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HQjN4eUJ0bzVUV3J3aEpFdFJNREV0UlpsUW5landreEpTcXFKOW9fNHR2Mml3UnE3WTJ3S0QxcDFUWTRWWG5tVlQ3cXdkS0duR0NSSVY0V2w0aC1JT0JlbzNBdXlZYjdW?oc=5",
-          "source": "CBC뉴스",
-          "published_at": "2026-10-25T01:35:28+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "ETF, 개인 80조·외국인 10조 순매수…하반기 약세에도 투자 열기 지속",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MQXV4dEdCd3NfRUNic0hqQ1RKZS1ReGNkdTFzZmlaVVQ3S1daN25KRWM4NUJuVVZmb0pjX0lHWDJzUV94ejdLYmE4akN5bk03T1NybmNGMjbSAVhBVV95cUxNTEF1eHRHQndzX0VDYnNIakNUSmUtUXhjZHUxc2ZpWlVUN0tXWjduSkVjODVCblVWZm9KY19JR1gyc1FfeHo3S2JhOGpDeW5NN09Tcm5jRjI2?oc=5",
-          "source": "아주경제",
-          "published_at": "2026-10-25T01:35:24+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "[마켓 뷰] 솔리다임 상장 중단에 한숨 돌린 코스피…이번 주 ‘AI 수익성·중동·금리’ 3중 시험대",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wM2ktREVmOTU4eXd4MDNvQWprenRuV0J0b0UzTDVNekVrSGFxZDRheEhmeFRFd2xZZUZZUWtJVXVoTmJUZHZ0aThsNVFobko2TnBWb0JadExQNVpjQ2pMWXVDM0JVNGd0X1E?oc=5",
-          "source": "https://www.moneystorm.kr/",
-          "published_at": "2026-10-25T01:22:46+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "삼성전자 2027년 배당금 1만2000원 전망…주가 21만원이면 수익률은?",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hSlYwZWZVNG1nbWM3ZHBDNkxUejM1UE9zVTNtV0huYnhRcW1teEFjX1RXb2VHNm9Ud1JEUXJSbEZDT0xxQmU5T3diRnFCTVJBUjltRlRB?oc=5",
-          "source": "위키트리",
-          "published_at": "2026-10-25T01:13:00+00:00",
-          "category": "KR"
         }
       ],
-      "news_updated_at": "2026-10-25T16:10:58.879623+00:00",
+      "news_updated_at": "2026-10-25T19:00:27.348765+00:00",
       "quotes": [
         {
           "name": "코스피",
@@ -714,7 +714,7 @@
           "currency": "KRW",
           "change_pct": 0.29871101275276146,
           "as_of": "2026-10-23T11:05:40+00:00",
-          "fetched_at": "2026-10-25T16:10:58.971316+00:00",
+          "fetched_at": "2026-10-25T19:00:27.600762+00:00",
           "source": "Yahoo Finance",
           "stale": false
         },
@@ -725,7 +725,7 @@
           "currency": "KRW",
           "change_pct": -1.6241298236426505,
           "as_of": "2026-10-23T11:05:40+00:00",
-          "fetched_at": "2026-10-25T16:10:59.042571+00:00",
+          "fetched_at": "2026-10-25T19:00:27.768557+00:00",
           "source": "Yahoo Finance",
           "stale": false
         },
@@ -736,7 +736,7 @@
           "currency": "KRW",
           "change_pct": -0.17571703041009412,
           "as_of": "2026-10-25T13:52:00+00:00",
-          "fetched_at": "2026-10-25T16:10:59.095979+00:00",
+          "fetched_at": "2026-10-25T19:00:27.935329+00:00",
           "source": "Yahoo Finance",
           "stale": false
         }
@@ -745,6 +745,83 @@
     },
     "crypto": {
       "news": [
+        {
+          "title": "아르헨 법원, 밀레이 리브라 의혹 11명 기각…투자자 불복이 변수",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YeWc3SkxYTWRycEZSSGtEY2hqck4wdm93UElmYjE5clA4U2RZNEZWWkNLTTRXX2d4M0NvcFIyc1dma1VlSVZGNmRn?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-25T18:51:41+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "연준 주간, 주식·비트코인·DXY 충돌…110억 달러 만기 앞둬",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fUEhraGhTbTNURmptQ0FqdzVqMGo2U3ZwLXpLcmN2WVhIdmxTeUNhbGRJb3lSSlFKT1pMNEJ6TkQ2SnUtNWRaazBuOWJod0pOSm5kcF96aGx5U2VoSDhJVnJULWhGTnZYdVhCbVA0TWVIZUE?oc=5",
+          "source": "BeInCrypto",
+          "published_at": "2026-10-25T18:15:17+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "비트코인 8만달러 지지력 시험 ’AI 우려 부담’",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WM09KWE1xMXVMNEU3bW1abHRPcU9UYmFEaWtRcWxwbFFkWjkyQnRFdTdDQnI4a0JWWUFxTHFSSm85UFFmT0JxQm5KZHRGS3dlWDNXeHltQmZDUDkzMDkwMXRLOFJ2bm9zRzhnQQ?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-25T18:14:31+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "비트코인, 주택경기 둔화발 금리 완화 기대에 반등 동력 확보하나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcllCUldrVnlXNGRidTNDMnlPdEduM0RWb1lhR2V4Vl9ma1dvajdmN08tMVNHWnV5QjBfZkJ1SEhnX0lUY2xsb2FjeXZpcmdOOUNLdVktbk54SWhuUkFHWkxDSElVTk03T3hVTg?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-25T18:06:57+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "트럼프 “오늘이라도 이란 공습” 발언에 비트코인 8만 달러 턱걸이…하루 8억 달러 청산",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10WEFkWEZ6blNuaXpiY3J5UHJmWmVTb2ZzMFhaT0VVTHZ5NVdzOWVDZDFiUklreURQcVR6NGRYdThGYTRBNjdpODVMYm9UZlA3dGRIeVlR?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-25T18:01:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "파이 네트워크(PI), 0.077달러 지지선 사수 총력전",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odFBFb3JiR2txWFJ5bVo4UnE5LVFWN2V6cFE4ckYwa29RTnQ1azNjakNZX3FNd2lVRW5fWm94Z2VwZVlTX1pRaE5B?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-25T18:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "네타냐후 \"블록체인은 제재 대안\"…야권 \"안보 위협\", 중앙은행도 일축",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuanE1ZDFTdU1VZlBSZUM3UmpnZjBCWHNvY3pSdUgwM01TNU1YQnFnd09URnNIZXNiSzRQZ3lDR0pKLTVhTFo0RzRR?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-25T17:51:38+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "이더리움 반등에도 거래소별 희비…비트코인은 수익 실현 증가",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSWUNrenQyaEc1cHdVeDBnV3hNaUxTdjN5TlVJSDhGQVVlN1lvcVVtbDF3S29VR1JuRGhzZmQwZGhGNTdvLVhVTGR6dEczeVRzdzJ2eWVZcmtvei1odnhhYWpVUlBCQ2ZiQTVyVw?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-25T17:00:45+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "코웬, 비트코인(BTC) 급락 경고...\"잘 버틴다는 말 나오면 열에 일곱은 폭락\"",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TVGw2cmF3MUc3TElxUldBV3VTWTN5ODZxejdCU0gxWVk2V0gtNTVmYkhOdU9FbEx3WkhmcVZkX3JzR0tmN0MwNDVR?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-25T17:00:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "비트코인 현물 ETF 자금 빠지는데 선물 매수세는 유지",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UdmVlcW4zVUFlNEZGb0gyRDBxWldmdWZhbkY3eGlFUFFtQmN0eGQ2YUE3dUdjTl91LVM1a19xdVdJbUZpTGg4cFRYVlpEcFh1NVc1M0h1SzAzM29hRVlzR09VNl9UOG9UaDBiTg?oc=5",
+          "source": "경향게임스",
+          "published_at": "2026-10-25T16:53:37+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "비트코인 ETF 자금 흐름, 지난 5일 가격과는 0.54인데 앞으로 5일과는 0.03뿐",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dvT1ZZYmw4Nk9YVW9YdXJCRWRzU2VPYjZiSUpyNWhDRkZrUUN2MTROYVFfLUZtZWdmaENWUmlHeWtlNGdzSmxoNmFwaVA4ZUw0TFU1M3V0UEt4anQxdlpJZWRIV2h4aTNFOFc1VmNsQ3pubVFTWF82SDFGeF9KYV9pc1pIQ1lBRU9tVEYzUlJQQmM2ekF1NjZNN0d4TjZXVnk2WU5n?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-25T16:27:00+00:00",
+          "category": "BTC"
+        },
         {
           "title": "렛저·트레저 이어 키스톤까지...하드웨어 지갑, 줄줄이 보안 사고로 시끌",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fWnFGSU5jaTd6Z0N2SEMyQkRFNjR4aFF4a01oY1RMUnUyQ245bFp5cEEySHNmNzRJNnRpMTFQYVA1dldRRW1jY1Bn?oc=5",
@@ -760,6 +837,13 @@
           "category": "BTC"
         },
         {
+          "title": "리플 XRP 1.29달러 약세…MACD 매도 압력 완화에도 슈퍼트렌드 하락 지속",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kclY3clhwVHZ5aU9oZGhVbklqVHJEWG80UVZBWFl6Sk9PdkZtNkVHUDVuTEZGaE9lMUlmVU9FOVI5NS1qV3ZJWEpwT0RxTE1UNVRTdHN3Zlp2TmNHX3NPa3ducjhleS1X?oc=5",
+          "source": "CBC뉴스",
+          "published_at": "2026-10-25T15:40:00+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "ETH 과매도 지표 24.30....대장주 시세 흐름 촉각",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ZkotQ1NEaldwWGJOdDhNNzNQWUIzbFo2aXZiMlIyUUpwM0xRbFVlZnJoX201b1BKVGNQbDRPUldURG5YM0ZrOHdzcHpfSVNSVTZobElpNDF5Sjc3Q0MyR0J0U1NadjRW?oc=5",
           "source": "CBC뉴스",
@@ -772,6 +856,13 @@
           "source": "디지털투데이",
           "published_at": "2026-10-25T15:15:00+00:00",
           "category": "BTC"
+        },
+        {
+          "title": "청와대, 내년 1월 예정된 가상자산 과세 유예 가능성",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoV2NFUnZQUmVmNTR3S1JDQ1RBYm1xWGZWNDBhYVR5a2ZiUjg4OWFMbzU2VnkzUlpZeW5HZnN6THVCRjBzWi1veTFqd3dZSGU0NFpLZXUxQnJ6RnZYRVJzUzV3NWFoaUpSWWVxQnYzbw?oc=5",
+          "source": "진일보 | 전남일보",
+          "published_at": "2026-10-25T15:12:00+00:00",
+          "category": "ALT"
         },
         {
           "title": "BTC 단기 약세 속 7일·25일 이동평균선 하회",
@@ -837,6 +928,13 @@
           "category": "ALT"
         },
         {
+          "title": "비트코인 다음 사이클, 큰 변화…블로핀 CEO",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmlsOUxNSHU5dWJwUElDWk14Y2szVE1jYk1PVEVYeHgwMmJpelUtRTN6WGZXWVF0MWJKMFZaTDFHYkFmbVFPNzZRb0lhd2Y3MmNYdUx6aVBMOVI5WW9acFctM204akRJdEp1Y01ScXRVcGRuWVRQeXRIb0g4eElycnJzTGRIZw?oc=5",
+          "source": "BeInCrypto",
+          "published_at": "2026-10-25T13:57:54+00:00",
+          "category": "BTC"
+        },
+        {
           "title": "참여연대 “청년 핑계로 가상자산 과세 미루지 말라”…내년 시행 촉구",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96Ynp3dXNhMFpsODB0bjB4cWRrc2EyM24wT0ZHVDE1eU1nelFqOHpyNXlIZnFFcFVCTzBtMElPbXVCdXVBZWRUSFp2dzRJM2hMbndycEUtbEVUSkpqTVlYV3hmZU5WMG9L?oc=5",
           "source": "한국NGO신문",
@@ -880,7 +978,7 @@
         },
         {
           "title": "가상자산 과세 두 달 앞두고…청 관계자 “당정, 유예 방향”",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGc4VGo4c3NxTVo2T0lZZUFHaWZHbzR5RTU4V1RXcWVCTmoweGVJNVZYZ0FCNjdPa0M3ZWR3dTg4Qi1jc1FMWno0a2lPMkpjdWZTRzhKTGJzQldhWE9wbXdSZ0NGcHBRekZZUjluWlRKWkUwbi1QMTMzcjBoMnVsSnB4d29vM2NPV2tDLVlNblhlUDU3ZndJT3VEQmdDWENfMTVQZllwVzEtZ9IBX0FVX3lxTE9fRTRmSXRlamY1aDFSaWtoWWpwQ2lXUG0yNl9XcEZHNEZRSktxdlZxTDlESTlUajhuTjRidUNteDFkVkJZRXcxX0hRU3VHUDRnU0lGVjZoYkVqejQxMnZ3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00NU85cFJvMm84dUtUNkd0TEtZRjhZaWxyTW8tcTVNRlh1SVlxQUMtZTQyRmU2dFVqN2tiR1RTVlQyTkt4eFgtLS00cE91VElJY1M0RTN6QjJzUdIBX0FVX3lxTE9fRTRmSXRlamY1aDFSaWtoWWpwQ2lXUG0yNl9XcEZHNEZRSktxdlZxTDlESTlUajhuTjRidUNteDFkVkJZRXcxX0hRU3VHUDRnU0lGVjZoYkVqejQxMnZ3?oc=5",
           "source": "경향신문",
           "published_at": "2026-10-25T12:54:00+00:00",
           "category": "ALT"
@@ -911,13 +1009,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pSDFralEwQ2ROSmdrbnZ6LWVRWE9iM0EwRHRiU3FvTUl4QzlKeDdWWXNveFladkRsNFowM2hzM1VDeGVXYm5pLW9DeGU0aVd3bjZVelh3?oc=5",
           "source": "위키트리",
           "published_at": "2026-10-25T12:37:00+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "비트코인 다음 사이클, 큰 변화…블로핀 CEO",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmlsOUxNSHU5dWJwUElDWk14Y2szVE1jYk1PVEVYeHgwMmJpelUtRTN6WGZXWVF0MWJKMFZaTDFHYkFmbVFPNzZRb0lhd2Y3MmNYdUx6aVBMOVI5WW9acFctM204akRJdEp1Y01ScXRVcGRuWVRQeXRIb0g4eElycnJzTGRIZw?oc=5",
-          "source": "BeInCrypto",
-          "published_at": "2026-10-25T12:35:44+00:00",
           "category": "BTC"
         },
         {
@@ -964,14 +1055,14 @@
         },
         {
           "title": "靑, 가상자산 과세 '네 번째 유예' 무게",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1U19fUDMwaWhzQlJUTGZjcnQ0TjJkWTJwRXRKYXJTRWZ3dlVNY014aTAxSEliOGxIWXVsbjRFVlZieVktZmFrTFBwcWhtQjhwV1BtdTByd3IzRFpiNEVnTWoydUJNX210dTZIVUJR?oc=5",
-          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xemVRNXBjc2gzNDZlY3p5eTRObG0tX1pPWTZMUG9kZVpNMnQzNTlvSE9iRzlkYzg4OTZuTjc5aHNwSGd1ZWpWdXdBTEpUckMwbkpMY3piYk1CeGE0X0x4NHdsa25vMEVEbHo3TA?oc=5",
+          "source": "메디컬투데이",
           "published_at": "2026-10-25T11:36:10+00:00",
           "category": "ALT"
         },
         {
           "title": "비트코인 23만 개, 올해 최대 규모로 움직였지만 거래소 유입 증가는 안 보인다",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1FQa0taZU9Pa1puVXg2YmFZZTFFNnNVOFZudk9WLTRLWkI5MzRqZ21Vd0s0dVg2R1ZjejdsY3J6eGhzV0xNbEI5S2VEelh2RFJxNVZpMHk3cDI5d0dQTW1RZDZ1TlB6bDlob0pDb09NM003TDZVUy15Qkc0R0VEOF9WZGVpRHEyOEpxRlM2TG1kOW85WV8tYnFPNDlKaktUcG9oTER3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95YVhjUV9ROGtlc2lMcWladC1hbmtNeEVSUVNqek81NmFDT0lKUTJCRXVLVUtlREgycVR4TEc0Vkt3LWFrSFhyM09zbVZFLXhMTEdubGJ3?oc=5",
           "source": "위키트리",
           "published_at": "2026-10-25T11:31:00+00:00",
           "category": "BTC"
@@ -980,7 +1071,7 @@
           "title": "비트코인 하락…Zcash, ETF 투자자 수백만 달러 유입",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wWndobFVTSmk1X25VcTJzb1NVSXl0TmF2UmNIOW9DQ05RXy1IRGNPdmplR0NHSFZaR1NhQmUtV3FHNmZ4N1ZidDdoOVQ2VmwzQnZhcVA5S0ZYcEd0RElxTTNrNVdBVEpjcGh4bjdSaTJsbnVxLWc?oc=5",
           "source": "BeInCrypto",
-          "published_at": "2026-10-25T11:20:52+00:00",
+          "published_at": "2026-10-25T11:27:38+00:00",
           "category": "BTC"
         },
         {
@@ -1265,9 +1356,9 @@
         },
         {
           "title": "靑, 가상자산 과세 재유예 \"검토 중…결정 아냐\"",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abW5ReWJObjNYMV9maEJZNGI4WVBBa2txQnNOMWlGTl9LT2w2UVprdk5VN25MQm1OTmhGNkgzTUtCSDhGRGYxYklPTnNqa2tYV1VnYV8zQmlmTzFXcEtudjJNQzZ5M28?oc=5",
-          "source": "연합뉴스TV",
-          "published_at": "2026-10-25T07:54:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13c2NseUVuQTBHMUk1ZTB5ZUVZWGptdl93TTZEZFMwcnhsbEhWZlc4bzh0RUpTNDk4eVA1TXcwT3FaRDF4cG9MdlpjQVllcUlyRUJ6MmlGeDlkVkNMcHAwUtIBYEFVX3lxTE13c2NseUVuQTBHMUk1ZTB5ZUVZWGptdl93TTZEZFMwcnhsbEhWZlc4bzh0RUpTNDk4eVA1TXcwT3FaRDF4cG9MdlpjQVllcUlyRUJ6MmlGeDlkVkNMcHAwUg?oc=5",
+          "source": "연합뉴스",
+          "published_at": "2026-10-25T07:54:13+00:00",
           "category": "ALT"
         },
         {
@@ -1313,6 +1404,13 @@
           "category": "BTC"
         },
         {
+          "title": "靑, 가상자산 과세 네 번째 유예 방침",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FaGRLRVYwNUUtaGhBZjNXMEp5LXJNaDExd1g4RFE5bXFVdUY3c21NelgyNmh2VU1mcVJXbDM3V3hwXzBGa09aVFhUTlVxRTVRTkt1YmVtSXR6RnYtcFV4aEZqVG1aNG1tdmEyTjFHbUIwVVhi0gF0QVVfeXFMTUVoZEtFVjA1RS1oaEFmM1cwSnktck1oMTF3WDhEUTltcVV1RjdzbU16WDI2aHZVTWZxUldsMzdXeHBfMEZrT1pUWFROVXFFNVFOS3ViZW1JdHpGdi1wVXhoRmpUbVo0bW12YTJOMUdtQjBVWGI?oc=5",
+          "source": "IT조선",
+          "published_at": "2026-10-25T07:36:15+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "세금 내기 직전 '총선판' 열린다…靑 가상자산 과세 '유예' 방안 검토 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZDdtOU9wNWpEZUs5ZGtfV2NncDRWUW5DeXlRU0t2OEV0MlZhdk8wZ3JCMm5VS0Nqb3NRNWdVbTc4UjJKVGl6RDJrNFF5U002ZTV6ZkVUZUFRMTFRQ2xsX2ZrMDZTbGV0bGRURNIBckFVX3lxTFBVQmZ4TU83ek9BYk9ZWjVFa1pHamt6b3doWUJSR2hRRHJJWUlGcUxuUDhULWVLaVVrSVdtNU5UdWNHRk1HQXhmeVEwNG5WbnhkRVpZR01PMEFJVk41UVZxQW5qRUhDOF9GRTRpZlV6V2ZFUQ?oc=5",
           "source": "머니투데이",
@@ -1324,6 +1422,13 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOOXA5VThpX2lJUHR1V2NpWEZ2a0plM0ozOG0yWWRwS2dIdWxOYTB5MlFCLXQ1cVJUdEZyRmlOcFhoanJ6MjEtWGFYbnQzV09tUzNHTDB6SlVpLWNLbUc1OC1Na2wxSHhfTU0zYdIBcEFVX3lxTFAzV2ZiLWc5TndCRlhCck1GazFoQkdDeW12VmFJdENMSTJWTXI1T2swZkxqWEQ4RGFoZm02VXJ6aGtFRmQtdDE1c2pvUE1VM3J1aW9jNzcteWx3amJiUTdac05hUHJBUFlpQmVnWV9xeHI?oc=5",
           "source": "글로벌경제신문",
           "published_at": "2026-10-25T07:32:45+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "靑, 가상자산 과세 유예 검토…당정협의 거쳐 조만간 결론",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNzVITC0tMWNoY1o0T2xTYmtva09Oa3J5V1dNNmFWX2pHTWhvZFJXQnloSUV2ZjhuaFpvR3ZqY21DZlV3cTYtSmNnV3hyLVA5enFNWnZYR1dfSzZpa2hDaHhKNE1TZU1JRDU4UmJlbVo?oc=5",
+          "source": "연합인포맥스",
+          "published_at": "2026-10-25T07:32:27+00:00",
           "category": "ALT"
         },
         {
@@ -1339,134 +1444,29 @@
           "source": "뉴스웨이",
           "published_at": "2026-10-25T07:31:11+00:00",
           "category": "ALT"
-        },
-        {
-          "title": "靑, 가상자산 과세 ‘추가유예’ 방침...청년여론 의식한듯",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmZwSmVyQXFnQi13WkxKNnN2SHkxZ05QRkxwa1JNMk9ON1YxejZsakFnMVRJTkhZVXRKYVpXWGVkUUFnUURFbnN4bXoyZlU4d0UxLU80WHhTTTFtWHFOUXdDWXZLUXd4UF9hWEZvTWVkeEZ4VVBBYTVVZU10OWNUaWZBeWE2TC02dmd6UFZJWVo?oc=5",
-          "source": "조선일보",
-          "published_at": "2026-10-25T07:29:16+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "가상자산 과세 또 미룬다…네 번째 유예 가닥, 2029년 시행 추진",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5feW14RERsVUZhMDNNTlZwekwzOHhNUmFNU3RWR0RTWDNEbEs0cGhmMHhJTUE3dzluTEdlVFhqQnpKTGt5UE1McElzMks2WHJmbDkyMGNzYXUtTjA3TzlQWV9GOFJ3ZDTSAWdBVV95cUxOX3lteEREbFVGYTAzTU5WcHpMMzh4TVJhTVN0VkdEU1gzRGxLNHBoZjB4SU1BN3c5bkxHZVRYakJ6SkxreVBNTHBJczJLNlhyZmw5MjBjc2F1LU4wN085UFlfRjhSd2Q0?oc=5",
-          "source": "ABC뉴스",
-          "published_at": "2026-10-25T07:28:29+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "가상자산 과세 또 미뤄지나…청년 표심·제도 미비 사이서 '4번째 유예' 무게",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tYWdDX1JuYXo4dGJmOFBKYU02eGZnOTdkalNsNWRhM3l5OWhMQ1BVWURhN2EyaTlzd3pvTzZtRlMzZGJ2T1JleFBmelE3TVl3ajc0ckhVc3ZyTUVCdnROZkN0VzJZUDQzUmc?oc=5",
-          "source": "https://www.sisaworld.kr/",
-          "published_at": "2026-10-25T07:25:04+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "청와대, 가상자산 과세 네 번째 유예 검토…청년층 여론·CARF 고려",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nZGJrZGdOd1hyUnMxM2U0RGpGa3dUQjVWeHl3WWRyOWJUU2piZWNXZENqSkpMWmZGMGlqV0hVaU9SNzY3Y21qcmJEaG1YQ0tiNmY1TzAxb1M3ek5SbWoyLXp3?oc=5",
-          "source": "매일신문",
-          "published_at": "2026-10-25T07:22:15+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "청와대, 내년 가상자산 과세 '유예' 가닥…\"검토중\"(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tUmxTOTlFU2xwN1JPb2JQWkp6YU1YajdSYzAyNXdZRndDVGhENjFnclpZT3ZSeTdKb3daZHR0anltTjZuYlhTTWRqT21lZmd3cFBBaUl2cHBJZi0zOHM2MtIBeEFVX3lxTE5YNjVrREg5LWJudTU4dFEwMnNoQzZYSWVIVkFpbjlocUhObUJXYXAtNXhjQjVWLUxFOTR5RzFGVFFfdkNGQ1djZ3ZyNWJaR0E3WVA2bDdhY2V5b0ZoMDd5aTVsQXluZ040cjRFWkhWTXpsd3F5RGNMMg?oc=5",
-          "source": "뉴시스",
-          "published_at": "2026-10-25T07:17:28+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "가상자산 과세, 또 멈춰서나…靑 재유예 잠정 결론",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1od0w1aWZXbllWNGpQNE45ZTZGeWlDSjQwZjVROVlzUE5hQTRPeC1peE00ay1yZXlsNVExYkJSeWV5QmlOX25mUGg3NzVNd2hELS1GTUU3NXZabEdZ?oc=5",
-          "source": "세계비즈",
-          "published_at": "2026-10-25T07:17:25+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "가상자산 과세 네 번째 유예 가능성…청와대, 시행 연기 가닥",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JRVo1aWVndkdmdjlXTlFlSy0zLWJ3U1NMbGJRaTlZOHVrcThaR0FvLWtENlJJSmFVT3Q4R3RmaWZlMGJ4bktHQm8xUHhCVk1Lell0OGoyVnFmNklYQ19vbWUtVTY?oc=5",
-          "source": "서울경제TV",
-          "published_at": "2026-10-25T07:12:12+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "靑, 가상자산 과세 유예 검토…청년 여론 악화 의식한 듯",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tck5DWEVPeGpLSmszckNSeGpONFpUWEl5OGd6RU5ldk43MHBWRnk1SmRTXzR6UDlxVXd5LUF0bVU4RG00V2pjUmJJYXJxd2xQZzljT2k0RDZ4Q3dlWUgwMlotUXVzV0tKR0E?oc=5",
-          "source": "금융소비자뉴스",
-          "published_at": "2026-10-25T07:10:36+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "한동훈 \"靑 가상자산 유예 결론 환영..잘 한 일\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQy01Y3lBcWZXUTFqY1RReEZOdnR2ZU4yRGMyR3ZBRV9DYk83d2hNTjZLME5mNnI3Rl9qUlItUzFWeVpNWFpvdElabThfRzlnZkdiNU96NEJVUQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "published_at": "2026-10-25T07:07:01+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "靑, 가상자산 과세 네 번째 유예 방침",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRelVscC1GMGotVW1DZlEwWmtRcEpoRHdSRkdCRUluV3llSU4xZ1dEWVZEb1FZaFExUTNWVHlXdGJZUFRQQ2JXVTh6ZnNfVXh4MVVIYTdDNkt1QWwxbm5KQUFBSm5OT0xWczljR0F3YVDSAXRBVV95cUxNRWhkS0VWMDVFLWhoQWYzVzBKeS1yTWgxMXdYOERROW1xVXVGN3NtTXpYMjZodlVNZnFSV2wzN1d4cF8wRmtPWlRYVE5VcUU1UU5LdWJlbUl0ekZ2LXBVeGhGalRtWjRtbXZhMk4xR21CMFVYYg?oc=5",
-          "source": "IT조선",
-          "published_at": "2026-10-25T07:05:09+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "靑 “가상자산 과세 재유예”…청년 여론 등 고려",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpYnFocVBBYl91TVpWZVZBOUE1QXpvNEN1SXYyYzZMbml0ZmRIQWdNZ3ZsdnpPYlpQbllPVGRrNUlJWXpyS053eHhwWEJoRlpnMm5FTHp0dUZyQU5mRUQtd05RdkN3YU9y?oc=5",
-          "source": "뉴스경남",
-          "published_at": "2026-10-25T06:57:55+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "2030 반발에…가상자산 과세 또 '유예'",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CUjRvckpCS3pkclBMbTdCcEREdmZfQWY4ZDZ0aU9LcUFxemEzZ1BnY3NrcUlITVJOdWdJWXpUNHA3T0NwQi14cHJzakNiX1kzdUYyRmpDTjNBTmdrUF9qVQ?oc=5",
-          "source": "뉴스토마토",
-          "published_at": "2026-10-25T06:57:20+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "靑, '가상자산 과세 유예' 검토…청년층 여론 등 고려한 듯",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRlhjVjdWa1dGY0xrNkc0djhZWmprOE83ZXhkQmo5bmdQWmZub0Itc19IWnpPN0dBY050LV9QOXFrempGaVR4ZEdiQ21zV0lYZ0NoMUZDWVM3Y21kZF9teGotUnZ1a1BNNTlzZGtR?oc=5",
-          "source": "서울이코노미뉴스",
-          "published_at": "2026-10-25T06:57:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "靑, 가상자산 과세 재유예 \"검토 중…결정된 바 없어\"",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96dWpSUmNudHlWUGhGVEdDLWR1YmNhVS1PaU5UNUlmeGNVTlNNUUkyNTQtS1pQcU02am5LdktaYlpvd1l0VjlhM3lsWU5uaWtCdGtDNGxhTmtsVEJQNW1QeDd4Wi1pZkE?oc=5",
-          "source": "연합뉴스TV",
-          "published_at": "2026-10-25T06:55:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "대전시교육청, 미래 이끄는 ‘디지털 자산·AI 직업 탐방 토크콘서트’ 개최",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEZMV1hMS2Y0cUR0a1BpejBKNDdFcWVMMVJ3SXBhUXlBT1FmVWF3Z29uZ3ByNHpQRGN4RXlxT0hmN0tlbUc3eU5QQVR0dElmazBDa2ZmNWF3WmozVE9DaUl4bGxFUkd0cGYtQjJDc0s2NVc5OVRRM19xa0JaTEg1UEFNejU4dk9MaHpKanVMOFF5TF9rcVhjSng2bDJIUmg0RHFJQU5SZzdWcl9IcUVOcEtDR1lRMzY3cGFR?oc=5",
-          "source": "SNS 타임즈",
-          "published_at": "2026-10-25T06:53:03+00:00",
-          "category": "ALT"
         }
       ],
-      "news_updated_at": "2026-10-25T16:10:59.959922+00:00",
+      "news_updated_at": "2026-10-25T19:00:28.772981+00:00",
       "quotes": [
         {
           "name": "비트코인",
           "symbol": "KRW-BTC",
-          "price": 108030000.0,
+          "price": 108150000.0,
           "currency": "KRW",
-          "change_pct": -0.44877761000000005,
-          "as_of": "2026-10-25T16:10:59.006000+00:00",
-          "fetched_at": "2026-10-25T16:11:00.841231+00:00",
+          "change_pct": -0.33819585999999996,
+          "as_of": "2026-10-25T19:00:27.335000+00:00",
+          "fetched_at": "2026-10-25T19:00:29.893264+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "이더리움",
           "symbol": "KRW-ETH",
-          "price": 3145000.0,
+          "price": 3154000.0,
           "currency": "KRW",
-          "change_pct": -0.69466372,
-          "as_of": "2026-10-25T16:10:57.321000+00:00",
-          "fetched_at": "2026-10-25T16:11:00.841243+00:00",
+          "change_pct": -0.41048311000000004,
+          "as_of": "2026-10-25T19:00:28.638000+00:00",
+          "fetched_at": "2026-10-25T19:00:29.893274+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
@@ -1476,19 +1476,19 @@
           "price": 1742.0,
           "currency": "KRW",
           "change_pct": -0.1146789,
-          "as_of": "2026-10-25T16:11:00.306000+00:00",
-          "fetched_at": "2026-10-25T16:11:00.841250+00:00",
+          "as_of": "2026-10-25T19:00:29.314000+00:00",
+          "fetched_at": "2026-10-25T19:00:29.893278+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "솔라나",
           "symbol": "KRW-SOL",
-          "price": 136000.0,
+          "price": 136400.0,
           "currency": "KRW",
-          "change_pct": -0.94683176,
-          "as_of": "2026-10-25T16:10:49.068000+00:00",
-          "fetched_at": "2026-10-25T16:11:00.841255+00:00",
+          "change_pct": -0.65549891,
+          "as_of": "2026-10-25T19:00:04.006000+00:00",
+          "fetched_at": "2026-10-25T19:00:29.893282+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         }
