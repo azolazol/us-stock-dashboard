@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-31T12:19:05.547775+00:00",
+  "attempted_at": "2026-10-31T18:30:12.903533+00:00",
   "markets": {
     "kr": {
       "news": [
+        {
+          "title": "[IPO 일정] 코스닥 3개 기업 11월 초 상장…공모가 1만2천400~1만9천원",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SZGZONWwyeE5TdHRWcEthN1g3Sm94M0dBb1F2bWFCMTA0OXd4ajU1MGpXZlZJazh0Q3FPZ0ZEMW5vR2JHYlV6anJxZ0hpa3Jta2p0bW1XVUdkMUdNYXlBeWg0cGQ2TTh0?oc=5",
+          "source": "CBC뉴스",
+          "published_at": "2026-10-31T15:00:00+00:00",
+          "category": "KR"
+        },
+        {
+          "title": "사이드카 14거래일간 여섯 번…역대급 실적에도 출렁인 코스피",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85U2xaMWtzNXRIZzhRRkhkSHNjNWJxNXAyc2t2US1TU3M5OFN2N3ZyU09vX3JCTndtdXNhRWh6cFRXQjlWMDRDQ0szYUtGbmM2MjNpR1RBQWFQM1FrbGlyanFkSXctTXVqSXZIQXRR?oc=5",
+          "source": "https://www.seoulilbo.co.kr/",
+          "published_at": "2026-10-31T12:28:34+00:00",
+          "category": "KR"
+        },
         {
           "title": "한국거래소, AI 인프라 기업 래블업 코스닥 상장 승인...내달 3일 거래 개시",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaNzRQRU5meUoya0QzMVJLS29aUUM4dUc1TXZNSHJSeEh4ZlFvREVJWEx5ZFJEeW5UcE54RXFfZmRGRFlGa3F4N3JrTndLZVB6WGRlYmc3b0RFWmFydTJIalF2bU9WRHUyeVFXR3Mtc0ZFUmPSAXdBVV95cUxOYk1WWEN1X1hFX2JSN2wzazVnYUNHakFqc1A4c2c5czlndDl1d0dRRFRKM3JZLXZid19PYWJxQzRuSlpoUENYbnRCZnBrVUhxaXpaaGNHeWZGWXQyYkxUNmg3Yzc0Ymh0SVI5Ym4zNkdFYm1udnhaTQ?oc=5",
@@ -29,7 +43,7 @@
           "title": "‘AI 투자 우려’에 인텔 29% 폭락…국내 증시 여파 촉각",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbklwTUVFRF9rZGlDbDNPUzlwUTFab3lERXhkVEJCd1JaMm9kTk9uSmJLWlY3VG9VTHR2NFZ4MXdQRVExeHhxaWtyRFoxZE5aOVdNeg?oc=5",
           "source": "JTBC",
-          "published_at": "2026-10-31T09:47:00+00:00",
+          "published_at": "2026-10-31T09:54:36+00:00",
           "category": "KR"
         },
         {
@@ -279,7 +293,7 @@
         },
         {
           "title": "코스피 장중 5% 출렁‥투자자는 어쩌나",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ibVI4X0ptSldZWXVUYnpsWnJ1NXVPcTB0cU1rZUFKMHZGNFEyVl9USjZ6Sm92OV9QcEYtWi1rWmp0Q2YxOE53amZQNjFuWW1HZ2VYUlVrQkxzZGRXcVlaVHV5Wm42b3BoQnAwRThFcmNxSGVfbTJQNtIBeEFVX3lxTE5ibVI4X0ptSldZWXVUYnpsWnJ1NXVPcTB0cU1rZUFKMHZGNFEyVl9USjZ6Sm92OV9QcEYtWi1rWmp0Q2YxOE53amZQNjFuWW1HZ2VYUlVrQkxzZGRXcVlaVHV5Wm42b3BoQnAwRThFcmNxSGVfbTJQNg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GR3FneTZGbEF1TksyTEEtckxrWlJlV0c1ZmdDS0Z6aVp6SU0wY1p4bDcxRmFTM1duR3pxUTB5WkhUUXhmTmRTcjZ4OWZmVGx0M3Z6LTRfcWRILWVaOHdPWHZyTURjejhNV25iVWFIMDRNcndMbjJxVtIBeEFVX3lxTE5ibVI4X0ptSldZWXVUYnpsWnJ1NXVPcTB0cU1rZUFKMHZGNFEyVl9USjZ6Sm92OV9QcEYtWi1rWmp0Q2YxOE53amZQNjFuWW1HZ2VYUlVrQkxzZGRXcVlaVHV5Wm42b3BoQnAwRThFcmNxSGVfbTJQNg?oc=5",
           "source": "MBC 뉴스",
           "published_at": "2026-10-30T15:50:00+00:00",
           "category": "KR"
@@ -426,7 +440,7 @@
         },
         {
           "title": "[집중취재] 반도체 투톱, 주주환원…배분 시점과 시장의 평가는?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43UEZKOXVHUzlnRW1WUVEtWnBUNnM1Qjh0aFVjSnhzSHV0Rm4zb3FSTXJDT0ZHbm1HTm0wS1RuQndRYWx3dnUxSkxXS0taVGJvb2c?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HcTM4UHIwMXQ5bk1YNVRiZUE2OVZOU1JPZlRYb0xlOVoxU2RuLU5SX3UwVlNzUDZvWEY3Z2VIem1kVUJCek5iejhYd0FEUllReUlzeGtxMURfUG5za0FwNg?oc=5",
           "source": "매일경제 마켓",
           "published_at": "2026-10-30T08:55:42+00:00",
           "category": "KR"
@@ -689,23 +703,9 @@
           "source": "동아일보",
           "published_at": "2026-10-30T07:20:16+00:00",
           "category": "KR"
-        },
-        {
-          "title": "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Pd2FKZm1TMFFRNHVoSXp1clNOenlaa1k5cU5wSThkNVhVbTV1UDVjejVTX1hFUXF1Qm1Od25ESmRqSzk5UzlKOXNLZ1FwQnJQZm9BSnNzcENhZUNMdTVvMy1oX3o5TXVhSWc?oc=5",
-          "source": "비즈워치",
-          "published_at": "2026-10-30T07:20:02+00:00",
-          "category": "KR"
-        },
-        {
-          "title": "코스피, 美 빅테크 실적 충격에 3%대 급락…삼성전자 3%·SK하이닉스 7% 하락",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZFdhMTVsZ08xZzJBUzZTeElOT1g3NXlieDFSR2J5M0k0V0dKVy16VEw2cVB5ZDVCTUhYYXJEVTRoUVJ3NTZfcUgxUHdpUQ?oc=5",
-          "source": "전자신문",
-          "published_at": "2026-10-30T07:17:31+00:00",
-          "category": "KR"
         }
       ],
-      "news_updated_at": "2026-10-31T12:19:06.214359+00:00",
+      "news_updated_at": "2026-10-31T18:30:13.578934+00:00",
       "quotes": [
         {
           "name": "코스피",
@@ -714,7 +714,7 @@
           "currency": "KRW",
           "change_pct": -3.4848770526584527,
           "as_of": "2026-10-30T11:05:40+00:00",
-          "fetched_at": "2026-10-31T12:19:06.287956+00:00",
+          "fetched_at": "2026-10-31T18:30:13.637411+00:00",
           "source": "Yahoo Finance",
           "stale": false
         },
@@ -725,7 +725,7 @@
           "currency": "KRW",
           "change_pct": -3.8301689015081575,
           "as_of": "2026-10-30T11:05:40+00:00",
-          "fetched_at": "2026-10-31T12:19:06.342504+00:00",
+          "fetched_at": "2026-10-31T18:30:13.705839+00:00",
           "source": "Yahoo Finance",
           "stale": false
         },
@@ -736,7 +736,7 @@
           "currency": "KRW",
           "change_pct": -0.21524839764351933,
           "as_of": "2026-10-31T03:30:33+00:00",
-          "fetched_at": "2026-10-31T12:19:06.397115+00:00",
+          "fetched_at": "2026-10-31T18:30:13.768791+00:00",
           "source": "Yahoo Finance",
           "stale": false
         }
@@ -749,8 +749,190 @@
           "title": "비트코인 반등했는데 왜 시장은 흔들리나...유동성 악화의 신호 | 엠블록",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XdEpscFg2ZG5nNHEwZ2IyZUxOYmFaYWFKTFphM045WXVyUzlGdnRmX1hab1lTSlRxbXNQV1ljTGpoQVNnS3B0S2ZfZkNMSFlYOERv?oc=5",
           "source": "매일경제",
-          "published_at": "2026-10-31T12:15:24+00:00",
+          "published_at": "2026-10-31T18:15:24+00:00",
           "category": "BTC"
+        },
+        {
+          "title": "동아ST '슈가엠파' 허가…DPP4+SGLT2 시장 공략",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hektzWWIwYVhUWmdhbHI0bElfdGNSTWRLTmJ1QjJBdzRGZHpSVlpFMGtXSWhfTDl6TlpNU1pLV0pFWTd2bHVxM2paaWFoMWdR?oc=5",
+          "source": "데일리팜",
+          "published_at": "2026-10-31T17:45:16+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "미국은 암호화폐 거래소 바이낸스에 대한 공격 사건을 조사하고 있다.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDJ3TlY2YlZmWFNLeU8xWXVQUTRMYlV0ZEZCM2piTkgtSmt0SUoza096c2dsTGg4dVoxWUtSVnltQ3JzZlJDSHhQVmp5bngtVE95YzI0VWwtajZvV2NVUDN5ZF94aXA1SWdhNFZMZFJycGphM1AtWV80TGxGeWxacWtoWjlWTFlxX1E?oc=5",
+          "source": "Vietnam.vn",
+          "published_at": "2026-10-31T16:39:05+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "런던에서 도난당한 아이폰이 어떻게 암호화폐 지갑 해킹과 1만 4천 달러 손실로 이어졌는가",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2E1OE93RVpZaHNyRExmaHNvN19WbFMydngzNnNkWnBuNlh4TWZIWldkRjRmQXp3Qi1IREwzdFJPVVlGYUtyemZoNnBlXzU5RVZNdzZfem5BRzl3ZnhNNXZPZGV0c05yMG5GMlB3bHZwYnZvR0lGVUpHenpSVzl3T2dzWlpzTUtpV0V5cW0ycS1yN2xrVE9OUzdJTFI5eXQxOXlvZ0pjZjJ2OWVxUzgxX3UzbWxvWW5F?oc=5",
+          "source": "CoinDesk",
+          "published_at": "2026-10-31T16:04:03+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "해외 거래자들이 수백만 달러를 걸고 있는 리스크 높은 암호화폐 열풍, 앤트로픽의 월스트리트 데뷔",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeEU0bk8ydk5jZ294MFkwaDhWZ2ZQYkc5SkRMWTVuRE11ZEVfcVozdnFZdkFDMWZQUnBRNExZc3A3djlUTHpLa0NZSEhGTTdfbmdSTHRXdmF0eHdwTmowYnUyQmMwWmhqcWFMNk9TYVlUaHdiMjRTWkxlM29RQUdZU2ZUWU10Q2dIaThGVFJzdkFuQXdJR1Y4LWFlN2xVLTIwYUNhaVpZX0xJZFRKQjdnYzdBV0NRTEp6eElsQXg4NUZNVjVVVVY0M1NOZDc?oc=5",
+          "source": "CoinDesk",
+          "published_at": "2026-10-31T16:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "테더 초과 준비금 79억 달러로 두 배…비트코인 ETF는 하루 6억 달러 순유출",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wb0lSMGZQZmRyMXliRTRtY3JGSXh2RE5BSUFlcTJ6OFM0elNiU3B5TzRLRnY3cC1zQWppVzk1b2dhWjdUX2FqbjN5U2ptT2I1VUZ6REh3?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-31T15:25:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "“가짜 이력서에 딥페이크까지” 北 IT인력 위장취업…가상자산 급여 러시아서 현금화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03elJSM0VMMnEwRUR6WVpDeDRlVWVrYVZWdGZoeEE4TjFKY1R5MG1zODlwazZvUlBkUXNqYi1kSnlmcklSTUJCdHJmc2U2UEFjMXfSAVNBVV95cUxQbmJuYTZWTVA4eFBjeE5HeVNsLTdGbE1abEN3X0FWc2V6WnJoQTNMTU5sRERwbWNUQldjNEhvazhVQ1RTSmk3MzMzeEE2ZnN3cEFiMA?oc=5",
+          "source": "서울경제",
+          "published_at": "2026-10-31T15:06:49+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "[가상자산·해킹] 가상자산 싹쓸이 후 이더리움으로 바꿔치기…바이낸스 해킹범들의 치밀한 속도전",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzaGFXOUVJLVh5dzlXMFNlX3JjUmxycG5WZkg4YlkzbGtBMWVLZmk3UnFxNVZGYlB3d3NLbFZBVUhMQWxaMm15QXY3SGRDTFNHeGx4OWI2eUZSU25LZ0g5b3RYeUF6cm8y?oc=5",
+          "source": "CBC뉴스",
+          "published_at": "2026-10-31T15:00:00+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "[가상자산·보안] 개인키 오프라인 보관부터 실시간 경보 체계까지…가상자산 업계 보안 비상",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pSnBYcVZ6elExbk5tVEdZbHV0dUFUck9lak0zOVpMalFJd0JLXzl2NGNBdDVra3FQWVlkRmphcjJxX3A2cHdzOFNvcTFBRnB1T0l0WUloYURfanRBd3lwYWZpUk42ZmI1?oc=5",
+          "source": "CBC뉴스",
+          "published_at": "2026-10-31T15:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "가상자산 보이스피싱 환급 자동 아니다…통신사기피해환급법 개정안 10월 시행 예정",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0hEc25nSG1wWVhKRGpUc1BtVFZSNW1SRU84R1BjTDlMcV9pSm43c083YW5IM2lnNzYxbUstSFdRRE00XzRPSWwzOVFMYTZBRzRVSGk3SllxWE9KT1dMVG5MWG1uUERyZTNoUEc1YVJoU25KZVFtVm54UUZ5OVFGT2lCaENOTEFkc3hITWRmWndaNm1HcDgzQU9ILWwwZmt5eHlickN3?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-31T15:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "[심층분석]디파이 우회로 뚫린 지니어스법… '디지털자산 수탁 창고' 전락 위기 몰린 美 은행들",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oSXp1M2F2bDNMS3hObzVYeTJEQTFsY3IzLVlJU1NmMEY1Snp3c1dLMTIwbzJTSjQyVXBaS1hJeUo2SDdtaTFYWmNLX29jMXM0UGRpMzhIcnByUk9OWVZHcWdFbEduOE90V1pfeg?oc=5",
+          "source": "굿모닝경제",
+          "published_at": "2026-10-31T14:32:55+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "전국사기피해자연합회·탈북여성인권협의회 “북한 암호화폐 탈취, 국제 안보 위협”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03NklYc0xVTmhwMnM4LXFESE9mU2U0Q3hpYTZzUEdydFg3QWVIazNkN1E4Rk1vd0lCcVBPbGNZbTQzR3hEY0dMUzFEcUp4cW9DOHo2SGcyYkZfQWxScnNPU0pWd1pLb0dWMHc?oc=5",
+          "source": "데일리저널",
+          "published_at": "2026-10-31T14:00:33+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "AI 붐 속 소매 비트코인 채굴 재개 움직임, 그러나 수익성은 여전히 어려워",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUEpaUG1fckxKaWs5ME1VbFBseXpndmlwVFhLSzNMcHVJT0VYVS05Mzl3TjhJZWdXeWZqRTh3OXlyek9GNWdBb0hIN25mM09PbzNNQlRhQ0hMT0V4U3ZvQV9BazVDaUpDalRDcnlDZG9rT1pZbUlra21FN1R4QmtPS1JxUHY1a01XN0ptV1BRTnFRSDZDZ19kbGtjUUo4bWhURDZxWlcyRV9vbVRpaHo4ck9OYzVOaVhqODdoSm0tbzdkaHpO?oc=5",
+          "source": "CoinDesk",
+          "published_at": "2026-10-31T14:00:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "빗썸도 뚫렸다…내 코인과 개인정보는 괜찮을까?",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrcFQzOTJQY0pQVzg0YmpvN016QXJfN2JSODBLeU5zVElpTEgyaDVkYmhXR1cyZWNlWURFbGNKMU9kbElaRUpkNDZrejJuSGdzVG43SnpZXzJkYldLaVp6dU01SnVLMEhzYnRz?oc=5",
+          "source": "산학뉴스",
+          "published_at": "2026-10-31T13:58:39+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "재경위 野간사 배준영 \"가상자산 과세 유예 결론 내야\"…민주당 결단 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Wm1naFBHMFNMTTd6WXN6dTRWUGp1enp5NDZGZVUyNEM5NGMwLUlObTdxa29aQU9LYmYyWHlOMjh6Qk9VSmhqdERZOFk4VGJD?oc=5",
+          "source": "블루밍비트",
+          "published_at": "2026-10-31T13:47:11+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "배준영 의원 \"국내 투자자만 세금 떠안나\" 가상자산 과세 직격",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGVmx1azhqNTRYOFgyYVhUYndDRkVXVFFpUXVDU0d1QTN3azdTci1CeVVhOV84d1JKbzNpZFdwY0JoS2pvUnBMMHBTOHFOX2lNSi16MkVEajUtUDZkV3VneEtOWlVJNVRWbm02czdVMA?oc=5",
+          "source": "대전일보",
+          "published_at": "2026-10-31T13:24:12+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "바이낸스 암호화폐 거래소에서 발생한 63억 달러 규모의 해킹 사건: 트레이더트라이토 해킹 그룹의 연루 가능성 제기.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0FFVW5UZDUxUDg2andwaUdxUEpRSkpTNmlYWUxmbWhYMVNZMVZiVzlZZ2xnOGh2dkZXRjcta2txT1h4X0hZMEZSVGtYMlExNVhOYXYxb2N2WHlyWlJ1dkxLMF8yZE9XeHhPVVpldkVyUnhoS3RDRGFlVGtGSWdqamMwWkllYlJSX0tQaTF3UlpISU5zLVlFZmhTR0ZjbzMyNEs2Z0t3a2NLQ3c?oc=5",
+          "source": "Vietnam.vn",
+          "published_at": "2026-10-31T13:17:42+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "비트코인 7만 7,408달러 보합…청산액 62.37% 급감 속 7만 7,699달러 저항 시험",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kbDk4RDFET3lVSFlHN2FpWUhzVmpLeWJ6YnpCZzBOaEJ4UDNhbExXdnBxQlo2b08tajRSazVpd2ZiNlNvZ0NTNUJR?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-31T13:04:24+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "리플(XRP) 1.25달러 공방…1.24달러 지지 시 1.34달러 재시험 가능성",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OUDFDbWVqLWNHaGlxWkJLOEM2eW9IOWdlLU1IZ2k5emtWcVNjMy1vWVdDTUVTZTBkM2U0TXZ2SXFSZ21XdkZHSkRB?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-31T13:03:02+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "이더리움, 바이낸스 해킹에 2,200달러 깨졌다 곧바로 회복…RSI 29 과매도 진입",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvZUZBWHJ0OFRJM2VIYnBWakdlMWptbk9rRTZsN0lMQi1oeXRlaVFSRUhVVkFaQ09VSzJVZWZyUldBVTl0TjB5eklNRnYySkxkb2NzSVdR?oc=5",
+          "source": "위키트리",
+          "published_at": "2026-10-31T13:02:00+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "“북한, 코인 17조원 훔쳤다”…북한은 어떻게 ‘세계 1위 코인 도둑’이 됐나",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fN29ab0xIblEzbHVzaEFXM2FzRGF2ZFhpdG5EbklRR2tsdHNKSE1qZ01mR1BaSHg3YVpSWDFKbGFoWFg3bGFibkl4R242WldtNzAwRnE4Ums3ZzlzcVN1M3o0QWxnUm8?oc=5",
+          "source": "한겨레",
+          "published_at": "2026-10-31T13:02:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "이더리움 2,170달러 지지 시험…바이낸스 해킹 후 매수 기대에 소폭 상승",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0ybWJCazdNdGRrdWNzektGOXRQNFNrTEU3NHlsNkJBTzlLTHVNZzRPOVZieF90N1pVMmRXRFZqX0JFbkU3a0JIUF9n?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-31T13:01:34+00:00",
+          "category": "ETH"
+        },
+        {
+          "title": "넥스트 테크놀로지, 비트코인 5833개 매각 검토…\"바이낸스 해킹 우려\"",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFNlF2RG5rRE5RdW80eTVJUWhrcFdkdktBZ21YT2xRbzRyNUtHTUFpTWlnOVlHbkRHaUtwbkxjeGJ3WFRYaVh2X0NzRWwwM1Bq?oc=5",
+          "source": "블루밍비트",
+          "published_at": "2026-10-31T13:00:38+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "18년이 지난 지금, 비트코인은 과연 무엇을 이루었는가?",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFhTNWRpVmh2T3JWWFU0YXFiMUZOZXlGaElhaUlvakpncXRHOVJZcllwaHZ0czBxMVFvVGtqY2dLSGJsTS1MZEgyakJvbGtvXzNmVGhIWmRUSEZ6MDBIbEh4YThPaERsZnJDQlRrdC1zVmhEUUxfTjZwUDVIXzduUHZZZ3dMcXI3ck51SjhuRQ?oc=5",
+          "source": "CoinDesk",
+          "published_at": "2026-10-31T13:00:00+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "윙클보스 \"암호화폐와 싸우다 실패\"...유럽중앙은행 총재 조롱",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DSDlBamZSMEl5X3F3TWI2VnZmZ1o5eGc1cXhrVDhQUUx3LU10WmhwcEtCS18xeUJNSHRLQmJIckdsc3AxMUtKN1p3?oc=5",
+          "source": "코인리더스",
+          "published_at": "2026-10-31T13:00:00+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "바이낸스 해킹 사건, 64억 달러 피해로 암호화폐 보안 경각심 커져",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xSENPcTJJMUpuRWxRTVdQZ210eURSNC1felpFbWpjaVZuTmQzcEZOMmxuOFFTdUZYVzhvNUFhQVRxY1hwZXZ0NUlfdEVyOW9ySHA5eGd4cEE1Nk1Ua3pMTzlLZHVLTktr?oc=5",
+          "source": "공감신문",
+          "published_at": "2026-10-31T12:46:40+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "北 바이낸스 해커, 63억 달러 털고 '지갑 핑퐁'…자동 거래 정황",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14OXVqYVhDMmlfR2trV1UySDFNZnJXVmJuSlZ2Q1hPVU5xS1NJZTZ0cG5QT0VWdlFiZjc0QmJJaHV0S2RLT0NTendCS2tXU3RVd05TenV1TTJFOE9KTEFJM09mNk9lbm5tcndnbG9URHlFeVoxbjlvTNIBeEFVX3lxTE14OXVqYVhDMmlfR2trV1UySDFNZnJXVmJuSlZ2Q1hPVU5xS1NJZTZ0cG5QT0VWdlFiZjc0QmJJaHV0S2RLT0NTendCS2tXU3RVd05TenV1TTJFOE9KTEFJM09mNk9lbm5tcndnbG9URHlFeVoxbjlvTA?oc=5",
+          "source": "뉴시스",
+          "published_at": "2026-10-31T12:44:23+00:00",
+          "category": "ALT"
         },
         {
           "title": "트럼프, 가족 암호화폐 머니 언급…‘조금 위험’",
@@ -823,17 +1005,24 @@
           "category": "BTC"
         },
         {
+          "title": "세계 최대 암호화폐 거래소 바이낸스 해킹…60억 달러 탈취",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENFlUbFFPbjVDNV9zZUVNaGQ5TXNITWZMY2E0Y2JrdS1pOUhVeEJiSlQ2d2x5ZGJNVndocDBzVGVhS0JkS19wYTlQZmRIUTFXS0w4MUZ2OThGU2FqcWJTY1VrLVlZb2s?oc=5",
+          "source": "서울STV뉴스",
+          "published_at": "2026-10-31T10:26:11+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "사상 최대 해킹에 지구촌 암호화폐 시장 ‘흔들’",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NN3ZBVmJJb0xNSThUb2p4Q2lpaTAtUTgxVGh4ZWxzZXpWRThSSDBXWW1za0NxVHUzUFhxRTEzX3UxV0pmU2pFMU9uaGQ0ZlFIdzNrWEJpT18tajV4Tnc0TE56UWpYbUR0?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YLVgxZWVoZk4xU25PU3NYck9xY3lmQjNEZy1ONndoanRvTllQY0JGdTgzRTBsaDlPejU0c2JQd1dNb2FveVY3WmtCMDZsVFJZRzVEeE5ZeEJRdEhQbmtWcEdpR0MwU0NaNUVPR3pRVWU?oc=5",
           "source": "애플경제",
           "published_at": "2026-10-31T10:18:58+00:00",
           "category": "ALT"
         },
         {
-          "title": "“북한, 코인 17조원 훔쳤다”…북한은 어떻게 ‘세계 1위 코인 도둑’이 됐나",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fN29ab0xIblEzbHVzaEFXM2FzRGF2ZFhpdG5EbklRR2tsdHNKSE1qZ01mR1BaSHg3YVpSWDFKbGFoWFg3bGFibkl4R242WldtNzAwRnE4Ums3ZzlzcVN1M3o0QWxnUm8?oc=5",
-          "source": "한겨레",
-          "published_at": "2026-10-31T10:18:00+00:00",
+          "title": "\"올해 가상자산 해킹 피해액 89% 북한 소행\"",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWjd1TFpqaTZVQ014MWhtZFRCZmpZQWFPbVFKWkxFRE9PdFRJelh5WnREN0FZNk1ENTM3eEF3LWN6MHhhbDd6QmtpbHlFVHJkWEtDMEI0RVIwU29TWV9YWVBBSW1GclJzbGJXVTJLcWtoajDSAXNBVV95cUxNalo3dUxaamk2VUNNeDFobWRUQmZqWUFhT21RSlpMRURPT3RUSXpYeVp0RDdBWTZNRDUzN3hBdy1jejB4YWw3ekJraWx5RVRyZFhLQzBCNEVSMFNvU1lfWFlQQUltRnJSc2xiV1UyS3FraGow?oc=5",
+          "source": "한국일보",
+          "published_at": "2026-10-31T10:11:00+00:00",
           "category": "ALT"
         },
         {
@@ -856,6 +1045,13 @@
           "source": "블루밍비트",
           "published_at": "2026-10-31T09:34:10+00:00",
           "category": "BTC"
+        },
+        {
+          "title": "바이낸스 사태와 베트남 암호화폐 시장이 직면한 보안 문제.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHBxay1kVWpmay1qczM5ODIwVGRtel9yMnNtaW9VakRDMXBySHNjWExIcGdYSEZ4ZzVJQjhVMnBqMS1xZ2Fxd2p6NS1sXzJOUlZLWHhMYktxdEFqdHc0Vlc4T3BBWnJkLUd0N2c1RUtfbWNHSlV6emRuRTRTN2ZvSy1KUkduV0FQM29tdEFCendvbWNweWE4U09UY2FvNWc?oc=5",
+          "source": "Vietnam.vn",
+          "published_at": "2026-10-31T09:18:55+00:00",
+          "category": "ALT"
         },
         {
           "title": "바이낸스 8조원대 해킹에 화들짝··· 거래소 보안 강화 나서",
@@ -887,14 +1083,14 @@
         },
         {
           "title": "바이낸스 해킹에…美 코인 거래소 보안 강화나서",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NZl9BN3FrY2EzOTAwRWFIVEpBdlVuYzBPUEk4UHUzcWltajE2TjZfVDdXelJOQzlqSWx1MXNrMGkwQTFfWDR2eDhvdVJqZzFiWjlN0gFYQVVfeXFMTUV0V1o3VXgwV256Yk5jQWt3alVnbWoyYUFqdzZCUnFBZGEtNXFlVnVoWUM1UFFQTUtSa0ktNXBiSXN4Z0IzaER3LVk5aEpsZVJneXFfUXBScA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdFdaN1V4MFduemJOY0Frd2pVZ21qMmFBanc2QlJxQWRhLTVxZVZ1aFlDNVBRUE1LUmtJLTVwYklzeGdCM2hEdy1ZOWhKbGVSZ3lxX1FwUnDSAVhBVV95cUxNRXRXWjdVeDBXbnpiTmNBa3dqVWdtajJhQWp3NkJScUFkYS01cWVWdWhZQzVQUVBNS1JrSS01cGJJc3hnQjNoRHctWTloSmxlUmd5cV9RcFJw?oc=5",
           "source": "SBS Biz",
           "published_at": "2026-10-31T08:32:00+00:00",
           "category": "ALT"
         },
         {
           "title": "바이낸스, 50억 달러 USDC, USDT, 비트코인(BTC), 이더리움(ETH), 바이낸스코인(BNB) 등 관련 토큰 자산으로 보유…추적 계속",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wYzI2a25uVW8xSmwxNF9yWjJjb3Q2Y1BVSHBoVmdBUFAyUzR1bGJyYXA3bnRlUGs0WEhTM1hUOXkwVmNkdmFJVGVPclJQaUpZMGlPLWZGd0IyVGQ2T01wblQxTjN5Ulk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYYUR0aFVhYnhzS3F6MWZGN2t6aE5IV2lmQXNmeTdIQjFKUW1CdndETHJFY05xUERfdE42RkpRUEM4SzNIUnN1U3ZkYUVCVWxwZUpLb25SN2RraWZFTnVUOTRPUlBFN0du?oc=5",
           "source": "CBC뉴스",
           "published_at": "2026-10-31T08:20:00+00:00",
           "category": "BTC"
@@ -915,14 +1111,14 @@
         },
         {
           "title": "20분 만에 63억 달러 털린 바이낸스…'세계 최대 코인 도둑' 북한 지목",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jY29YVGFRejNWYmVXak9OZGJRT3A4TmtKWjZ4eDMzLWN1NXIyNGVuUHBBQ3lvcnBwLTVOVlRWSkpvQTNGX182NldFWmp3R0xJdzdqQm9aaTFLZXFYYkVicGFLMHBSQ2pQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01QlNmUmNTWnlOMFV0X2hHN1lyY2t6T0lXRGkxeFNZVFFnZEo2bzNBaFVPTmxnMks5ZnlzWThWZWJpcWY5YmN5TVJoV0tTUEp0RlpzMmZmc2ZtTzRsVm0yZ3lDaS1sT2t6R3c?oc=5",
           "source": "OBC 뉴스",
           "published_at": "2026-10-31T08:03:52+00:00",
           "category": "ALT"
         },
         {
           "title": "‘바이낸스’ 8조원대 해킹에 거래소들 보안 점검",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWlBUzNzWWtCU0dENExsczNsTFQ1RW55T0M4VGFmbk1FajdvWVluTXB0b1czQkpFZl9QRzZ0WjN3ak9IN1ctNnlvTXFtVmhmWTJ2SHhsU3BRT29HTUk5dGZYZkk3UU51VUN2dHlrU2RuejJjLTBOYjVnZERUc0FuY2JEZjc4emg4anBhOUlrUGo0Ulk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGJWaVhXTEh6Y2lubDdQWWRwYlV0VnJCYW9TU1BlMmFUTmtld3h0YmdBNk1wemw3NTIwZ0NWWExYVjg4UHMyU3NOV2MxX3duQ0JwR2xZVlZoTXVRU2VfajN5UUF1bTYxUUxnSVFycE1CSXJjbzNIOXh4OUZOYjJIMDlpLTFEdEtjbE4zVlBB?oc=5",
           "source": "국제신문",
           "published_at": "2026-10-31T07:50:00+00:00",
           "category": "ALT"
@@ -936,7 +1132,7 @@
         },
         {
           "title": "해커는 최대 26% 싸게 팔고, 바이낸스는 같은 코인 사들인다",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XREtIc1hXb0tzNjZMdnlsblFoRlJQSEQ4VWp3X0dUdnBIaXNoTlZrSW1sR0h5bUNFNXhYM2tPU2otVTlVamdxUkZYWW9SRGVOTUdmUXptMjlmTWQzNjNj?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4weFlxeFdPblFTLVpTQzJSOUpiNlR3U2lHZE5jTFlhUkdNQWtQQUQ4NVh2dXo0RmhOVTBlWU1mam1nMzk2a0wyTU43blViWHhFNlBpY1Vva0JGcmI4VjZCUGt6SHl4LUc4aktiVFJxQQ?oc=5",
           "source": "조세일보",
           "published_at": "2026-10-31T07:41:09+00:00",
           "category": "ALT"
@@ -1006,15 +1202,15 @@
         },
         {
           "title": "해킹지존 北, '코인 절도' 국가 산업화 … 전 세계 가상자산 털어 미사일 만드나",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sUFNVSDM5R3M3TDVnY2ZjdXhpMXI3VUcxbzAtTTRDa2UtQXlTYU95V2F4by1jTDBqTWtSdjVnd1Vwak4wQmVfUjE5VEZQTTAzck9aazMtUmZGTjkyYUo0Z2ZmaEhncnA5VHhTRjRqbE5KN3hEVENWTmJOYw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4waXAzSFpkY2c1V3BIZ3dHUkhuX1EtRTNpR3lqT0UzSDF2ZG9EUkpGSGZ1cW90TnFfZG1wZDRvQ08zM3pFYmxFSHlvSXVIVlFRRlkzNjgwUFppSmlaZFhzNDdJdktpS1p2UDFzM0pEWjBrSk43?oc=5",
           "source": "뉴데일리",
-          "published_at": "2026-10-31T06:56:00+00:00",
+          "published_at": "2026-10-31T06:56:58+00:00",
           "category": "ALT"
         },
         {
           "title": "[자막뉴스] \"올해 가상자산 해킹 피해액 89% 북한 소행 추정\"",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDZfVXRsYVIxck9LUkd6a0otQkItOWJMR2dPN1FTeXFVTDMtSVAtVlFBWkxfbGFsN1Vqdk1LTGhmaTRwbGEwMnpxS3lVcU1qYUpyM2tCeU5WaXluVzIxRWNVSzVZU1NIZDl0Yl9PU1BSY0Jha1c2NXQtVVZBUm1ybU03SGoyS3hCOWc5OEFoQnRha3VMT1VGRFJ4RWF0Z9IBZkFVX3lxTE1VM2tSSXpCWXZvSlBRdmtjWUJuckRVOFR1bXFsNlRqUXlmZl9NVGFTQnlUbVZVbDNQTDc1bm9oTGRXRjEwRGEtd0syWDcwa181SGdLd2dZcDROVmN0UTFnNko5dkRoZw?oc=5",
-          "source": "SBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTdhS2FnSU5KQVI3RmtmWUJrRTdhS1R6WXBJcy1mUkRIamZ5ZGdZZTFySFZCRDNmbUR1dVNoVXllS0ktcmJ1blZmR0kwTWM4dlpDRzdiNWQ3S1lkMFRTaWVnVDRWTW11RmtiUHMxMC1sQklTeWJPUVNVZEVNZzlZUzFMS3VsUXRkdWVxNWRhMA?oc=5",
+          "source": "news.sbs.co.kr",
           "published_at": "2026-10-31T06:40:28+00:00",
           "category": "ALT"
         },
@@ -1026,10 +1222,38 @@
           "category": "ALT"
         },
         {
+          "title": "BTC 뉴스: 바이낸스에서 도난당한 비트코인, 테슬라 보유량을 넘어 엘살바도르 준비금의 두 배 이상",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc1MwcWxSNWpJTGRZaUZBN2k1cS03RTZyWlVRdlJWX1liaU16dkwyMUloMDl1ZUdnb3RMLTExMGpVOXhXNHItUXJZaHdIVmJJem5nNTZ3aVZKOUZkNnJCNTRhdkw4Yy1uNHZ2QjA1V2trVUdsNkswZDdhbGQ5ZFNYU3J4bk9UM2lLY0V6UE1OaDE5b0xjWE82TGJNb1VfMHpSbWpaV3l6MTViYTNyNi1yNDN3cEJJTUMzSEFLNzkyRlo5LVNRSHNKWWNlbmJfcWVrd3c?oc=5",
+          "source": "CoinDesk",
+          "published_at": "2026-10-31T06:30:03+00:00",
+          "category": "BTC"
+        },
+        {
+          "title": "바이낸스, 8.4조 해킹 피해 전액 보상…\"다음 달 2일 준비금 증명 결과 공개\"",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiUVB6eUthdHBIdk02dVJMRm5PeFUwOFlyT0xMbHpEOV9GaUdtRUczbUVfbzZ3eERYbjlZc0xfNE4yc3B5TW5nT3MwelN6T0RHZHhYOUVNV0FrYmdXZUk5SVloTThUenZITFQ5U1U2YXJiMlHSAXNBVV95cUxQYlFQenlLYXRwSHZNNnVSTEZuT3hVMDhZck9MTGx6RDlfRmlHbUVHM21FX282d3hEWG45WXNMXzROMnNweU1uZ09zMHpTek9ER2R4WDlFTVdBa2JnV2VJOUlZaE04VHp2SExUOVNVNmFyYjJR?oc=5",
+          "source": "뉴스웍스",
+          "published_at": "2026-10-31T06:30:00+00:00",
+          "category": "ALT"
+        },
+        {
           "title": "野 가상자산 과세 유예 결단해야…민주당, 법안 상정 응답하라",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNjBtc0J2TFVNVFRnQXlBLVlXOGtIZkJ1ZXZoQmFPS2RmU3lYYlFyOU0wZFIzMm5qaTZBWFJsbWdJNHlHQUhjN3dhbjhkWUhtOFpSZWI2TjVpQdIBWEFVX3lxTE1xQUQ3bDk5Mjdsa3F5cUlHRk96YWZhTDRWcGI2VlF6dWV3SklVdUpwY3dZVUplNlNubXZlYlB0LTRGNVlVaWl6dERIb09EaW0zd2ZhTE1PR3A?oc=5",
           "source": "아주경제",
           "published_at": "2026-10-31T06:27:22+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HYlBoVkp3QXVYNi10LWNMVE0xLWZuOTUwQ1QyRGFOT3JkN2dVLV80OHpQaGZDVVRXWGI4WmVkMFd6S2lRY0ZuNFRjYXpacG1mVnZITVlIRWFsSzBnRjZlY21KSdIBY0FVX3lxTE5HYlBoVkp3QXVYNi10LWNMVE0xLWZuOTUwQ1QyRGFOT3JkN2dVLV80OHpQaGZDVVRXWGI4WmVkMFd6S2lRY0ZuNFRjYXpacG1mVnZITVlIRWFsSzBnRjZlY21KSQ?oc=5",
+          "source": "BBC",
+          "published_at": "2026-10-31T06:22:35+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "바이낸스서 8.4조 털어간 해커…아직도 4.3조 쥐고 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfQlB6WkdVMmVWV3ZPU2Z2eElJYktSbjJWRm9WcVVqcmUyelhlbVZRakk0RTZZaktyazNKQ09EbjBTQlJ3ay02VGwyYzBwRHpXNlpLOFBaZHc3QQ?oc=5",
+          "source": "한국경제",
+          "published_at": "2026-10-31T06:10:12+00:00",
           "category": "ALT"
         },
         {
@@ -1045,13 +1269,6 @@
           "source": "코인리더스",
           "published_at": "2026-10-31T06:04:17+00:00",
           "category": "ETH"
-        },
-        {
-          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54eXF4S1VxdGdmd29iOEdjR0dqSWdTX3pMaE92TFY3NThqUzZISG9hbFpidXluc2k4MkVQUmNQWDVQR2ZlbjJlOUtpZlVKM3ltVjFuMkJzRWs2cWZYQ3fSAWNBVV95cUxOR2JQaFZKd0F1WDYtdC1jTFRNMS1mbjk1MENUMkRhTk9yZDdnVS1fNDh6UGhmQ1VUV1hiOFplZDBXektpUWNGbjRUY2F6WnBtZlZ2SE1ZSEVhbEswZ0Y2ZWNtSkk?oc=5",
-          "source": "BBC",
-          "published_at": "2026-10-31T06:04:10+00:00",
-          "category": "ALT"
         },
         {
           "title": "리플(XRP) 1.25달러 선 공방…1.24달러 지지 시 1.34달러 반등 시도",
@@ -1124,6 +1341,20 @@
           "category": "ALT"
         },
         {
+          "title": "바이낸스서 8조원대 가상자산 탈취…북한 해킹 조직 배후설",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TLXVodEhOQXpmQkxSLTFYSl9tYTZ4WXh4WmtZVkFUWjliR1UwejRGaVlVSk5mV09qX0pKYUZFWHR2XzVTbTVoMndNb0xCd0ZYdllWMkV1Q3ExUkJ6R0h2QUg4YmZUZXFsOXc?oc=5",
+          "source": "뉴스포스트",
+          "published_at": "2026-10-31T05:35:08+00:00",
+          "category": "ALT"
+        },
+        {
+          "title": "미 수사기관, 바이낸스 63억 달러 해킹 조사 합류…비트코인 하락",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSnQzUVEwXy1VSjRackRXUWZoYXdySllMRm5LTU14TFhoZkxYT2RmbU43VThpS3cwcjZPRk1WRHdZYVRyUUNXOTNabzlnTnRwS3psNnItTVp3UTd2eUJmQi1SZ2p4Y0RWRDFsTXhyaWhvQ0E?oc=5",
+          "source": "Investing.com 한국어",
+          "published_at": "2026-10-31T05:35:00+00:00",
+          "category": "BTC"
+        },
+        {
           "title": "비트코인, Binance 해킹 피해 복구 움직임 속 7만7,000달러 상회",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSnQzUVEwXy1VSjRackRXUWZoYXdySllMRm5LTU14TFhoZkxYT2RmbU43VThpS3cwcjZPRk1WRHdZYVRyUUNXOTNabzlnTnRwS3psNnItTVp3UTd2eUJmQi1SZ2p4Y0RWRDFsTXhyaWhvQ0E?oc=5",
           "source": "Investing.com 한국어",
@@ -1131,15 +1362,8 @@
           "category": "BTC"
         },
         {
-          "title": "BTC 뉴스: 바이낸스에서 도난당한 비트코인, 테슬라 보유량을 넘어 엘살바도르 준비금의 두 배 이상",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc1MwcWxSNWpJTGRZaUZBN2k1cS03RTZyWlVRdlJWX1liaU16dkwyMUloMDl1ZUdnb3RMLTExMGpVOXhXNHItUXJZaHdIVmJJem5nNTZ3aVZKOUZkNnJCNTRhdkw4Yy1uNHZ2QjA1V2trVUdsNkswZDdhbGQ5ZFNYU3J4bk9UM2lLY0V6UE1OaDE5b0xjWE82TGJNb1VfMHpSbWpaV3l6MTViYTNyNi1yNDN3cEJJTUMzSEFLNzkyRlo5LVNRSHNKWWNlbmJfcWVrd3c?oc=5",
-          "source": "CoinDesk",
-          "published_at": "2026-10-31T05:06:22+00:00",
-          "category": "BTC"
-        },
-        {
           "title": "올해 세계 가상자산 해킹 피해 89% 北 연루 추정…5년 새 6배",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZzJkc2Mta29CZHU3WlB4LUt0cGVSVElqR3dZaTJ3YXZfWjdWd3E2cTVUMWU5X0s2TFZqeGZGRTBDcHZfb0J3NHFCbTRmWXlpTlRKNDIya09GZkJ2OHNQTEVTYldKdlRYRXp3NmFR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlQ2RNSWJsS2ZueGw1U1NyNFVZVjhSZ2Z5dnE4QjNxcEw5UkRwMEQyWV9PN3B1Tm5HMndqR1J4RVhkYTY5X3RDZFBLOGhkaGJaOFN6SENqY2EwQmJPRmFVRzBwR0YtNmtULTJxYw?oc=5",
           "source": "아시아투데이",
           "published_at": "2026-10-31T05:05:36+00:00",
           "category": "ALT"
@@ -1220,275 +1444,51 @@
           "source": "조선일보",
           "published_at": "2026-10-31T04:28:15+00:00",
           "category": "ALT"
-        },
-        {
-          "title": "野 “가상자산 과세 두 달 남았는데…민주당은 유예 논의 회피”",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3N2T3RGSUx2Y2FCUENYZUFXVThRTnctTEpDN2tfMFFOX0dWc3NCUTE1TDRHdzk0X19LN2VHS0l5bkI2NW9BbkJ2aW5CT3ZCR0R5VzZYV0IwMkdXRmlENnJrOUdNVU9XZzVJamwtaTdTdTA0TnVOdGQzb3d2ZGpfYg?oc=5",
-          "source": "이데일리",
-          "published_at": "2026-10-31T04:27:15+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "“올해 가상자산 해킹 피해액 89% 북한 소행”",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkNFb2VPeVo3Ymg4VERsa2xTSldaTkVENWxsV2VHbWladUpVMWNpTTRDRXJwUTVLQ01JWXdWbFRtVXhQSTNDbHo2bml2UjJfdEFXcEVYTzg0dW9ZdjI3ZlF5UlNEdjVuRUJYQ3NyOVBadGNaNVBaNkpic1R2Q3lQZdIBlAFBVV95cUxNRTFlS0x2cXUtc2w2R0NSejZncmNBNHNqaUtOMDhrOHhjMGxMaWpoeWRIM1RMdEJyNDJzWXZ6NlNGSGt2dDR1VVZEd2tBV0EwMUpBd0tkWFRtTDVHYmV2emNrZ0NQdkVSaWtPMVQwWVFhaFJqblE5U2ZDUld4MF9mU281RmtvdmQ0WWpBNXJWTEZjTS0z?oc=5",
-          "source": "Chosunbiz",
-          "published_at": "2026-10-31T04:23:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "“올해 전 세계 가상자산 해킹 피해액 89%, 북한 소행”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CemZMNmdRVjB0RTBISUs2LW1qQXZEV0RZUXk0eWJ6MmZhMV9ITS0tejRMN2FVc3BSN0NLam5ScVNSOGVQc0MzYmdvUGRIOVFqUkRtWWp4VWhabk9id2VQbWprVVBLdDV6bVE?oc=5",
-          "source": "천지일보",
-          "published_at": "2026-10-31T04:20:25+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "비트코인, 바이낸스 해킹 여파에 이틀째 약세…7.7만달러대로 후퇴",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41LWVIMVBXZUI3b0N2QUNkdXVOMTBMNy1wV2FfbWtWYVNyNTFBcDh0dHR6LUJwUERna05ES1IyMHUwSUNKeFZUWTV5OWdOX2p1eGVkSVVBLVZGQjVjSGV4TDVhY18tUQ?oc=5",
-          "source": "뉴스1",
-          "published_at": "2026-10-31T04:16:27+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "20분 만에 지갑 10곳 털었다… 바이낸스 8조원대 해킹 배후 北?",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85WU11Y1dKT2tOYi1URmNycEJJdkU1NkhyRmpwUUtSR3d3QzNNQnFxZ3JxR3JjRDVYUFVlODIzUXRQZDR1MHhvVzhxckpoaFJ6NEhEdjQ2NWNHZzdiRGYtWlB3?oc=5",
-          "source": "미주중앙일보",
-          "published_at": "2026-10-31T04:09:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "업비트 빔, 비트코인 제치고 거래대금 1위…주요 코인은 약세",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSbTZiUzlrcnR3UVF1dFhiR2Y5TnNzS0NYWHh4OEU1NUlITHlUUHpPd1ZXT0MzakRaWlQ5Unk1MWVkYnZuSFA1UUpB?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-31T04:00:42+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "가상자산 수탁사, 보관 넘어 운용으로…\"자산 활용방식이 경쟁력 가를 것\"",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xajV1LWlfT1JKNkdZRXR0ZDlTb0otNDIyWVdDNGVZekFpTVV0ZlduVTE1V29pRkxYZEF5Q1ZqaGdoWHFzYjgzVzh0RmlJa0JtQVNMcWFZOWpXTDUxcFRLS2Y0N3NnY1o5MTdtUkdKdVI?oc=5",
-          "source": "연합인포맥스",
-          "published_at": "2026-10-31T04:00:10+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "바이낸스 8조원대 해킹 배후 북한? 올 가상자산 피해 89% 연루 추정",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5od1RlSGlGLWZUYmE0a25qZGFWdXRKM3hZSFVRd0J4LWkzbFZuOHRUSUhQdF9hQnY2UnlEYkFmYmZLUFpWdzM2ZEk4SHNGakpLcEFhNGJ3?oc=5",
-          "source": "중앙일보",
-          "published_at": "2026-10-31T03:55:47+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "미국 비트코인 현물 ETF, 하루새 6억4320만달러 순유출",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PR0JpV2hNbE82cnlmRENBVDJlb0JiOExYWVo2LXBMaTZJZGxoaUhQeFQ5bkVxVHNsTVBqRFMyQ080Qk5wMldwLXIxNENCdjY5RmNCRjVBZXBEMGxYMGVaeFlXb3MtUXI0ZTNqbGJmdzgwdw?oc=5",
-          "source": "디지털애셋",
-          "published_at": "2026-10-31T03:47:00+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "미국 이더리움 현물 ETF, 하루새 1억5570만달러 순유출",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiMi1HdjhXZmg4WTU1ZExVd1I4SDBpWU1CS2EwVGlRUnBXYUpnb3ZfNVhlRlVUSjRXa1VYSFNwa0txYVQxSzc2WHotQU5veUtZclFKUld0WDFPUEdIendFc05RQW9WQ1VSVURrMXczbUx1QQ?oc=5",
-          "source": "디지털애셋",
-          "published_at": "2026-10-31T03:47:00+00:00",
-          "category": "ETH"
-        },
-        {
-          "title": "바이낸스, 사상 최대 63억 달러 해킹...향후 파장은?",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iY2ROMDRSckU4UXZrdUVGX0ZVcUxNYUgxMklPbDBnaTZhdXFiTGVFV1NYRFR0MThSR0NraTg4NEZYclVLbHZ4YXB2cThlNkUtejh5T1RfcllQQWpFaVpiaUxGal9jZlZhaWItRS1pV0E1cFHSAXNBVV95cUxPYmNkTjA0UnJFOFF2a3VFRl9GVXFMTWFIMTJJT2wwZ2k2YXVxYkxlRVdTWERUdDE4UkdDa2k4ODRGWHJVS2x2eGFwdnE4ZTZFLXo4eU9UX3JZUEFqRWlaYmlMRmpfY2ZWYWliLUUtaVdBNXBR?oc=5",
-          "source": "초이스경제",
-          "published_at": "2026-10-31T03:44:16+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "“올해 가상자산 해킹 89% 북한 소행으로 추정”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQjB5MHh1c1NKaVREckhvdnZOMzd5NjIzRG1YX1NZdERlTS1tTkkxVnFGdGthWWtyajRNeVpJc3N0RkY5RkpOYmJmaHVqZU9vMDRzb3RvclFEQdIBX0FVX3lxTE9PMUstVVA5Skhtb09JT2NDRGpJMTdwS0FUa2RFMGJhLVN4SkZQYURlWDF1TVJ5VXhyZE1LU0x3dmc0Y2J6Z3I2Tk0zUkU3VlJEbURUQ1h4d0xPSnN6UnA0?oc=5",
-          "source": "경향신문",
-          "published_at": "2026-10-31T03:44:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "“안전하다며, 왜 자꾸 털려?”…해킹당한 내 코인 운명은",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qQ1cwdzBjTXFKdnp5amllUTR0NjBPM0Y2Vi1YS05BZ294dkxOcWVDUm5WQUo3cXFsNTItNWlwWlFzd0dkMHpHVXA3UlZLUmQzZHhjUUdVNXNXQjdVYzEwSUd6cVZPaXlyVzBTc2Z5aXZiVjjSAXNBVV95cUxPakNXMHcwY01xSnZ6eWppZVE0dDYwTzNGNlYtWEtOQWdveHZMTnFlQ1JuVkFKN3FxbDUyLTVpcFpRc3dHZDB6R1VwN1JWS1JkM2R4Y1FHVTVzV0I3VWMxMElHenFWT2l5clcwU3NmeWl2YlY4?oc=5",
-          "source": "시사저널",
-          "published_at": "2026-10-31T03:42:47+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "지난해 세계 가상자산 해킹 피해액 89% 북한 짓",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOYVVjRVBnd3NWSnZZaVdRY0hVSnUzSUNOZEU3bkg3UTBMUXVZVkVQRFVjVHU5Y0J1X1VSeUViSzJ5NTBBTTl6NW5oVC14cGJEM2dpdHN6YUlrbC1HSFVXMnBFaWNKRUtDNTJtRFFFQlpDOEZj?oc=5",
-          "source": "파이낸셜포스트",
-          "published_at": "2026-10-31T03:30:15+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "2026년 10월 30일 암호화폐 가격",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iQnZPVzJTMUxUc0dfOHprcE9hbmFWdVdiN29pX1JQSHNwS3FEekhaMWhDLWFfQWp6SG4tWW1jMDhWUy1ibGNvdlhRWU9Rc3l3dGllRlVFNVNSZ0ZYVnY5RkR5dWkwWEdYN0pMZ1ZicXY?oc=5",
-          "source": "모빅경제",
-          "published_at": "2026-10-31T03:27:17+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "\"올 세계 가상자산 해킹 피해액 약 89% 북한이 탈취\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94OUxwUFRhUmxzSjMzM3F3WmU0a3JjN3Y5OTZSSWkzUHFoR21OVnp6ai1yMEFqUURwUGFVcFJtTk52Zmk0OHJMdDlFcjVHTUpoOHFGOVYyazIzQQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "published_at": "2026-10-31T03:24:20+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "세계 최대 암호화폐 거래소 ‘8.4조 해킹’…북한 배후로 지목",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEbzUzNDZlbnpWTXJVMXh6VDdrMFRZMkI0OEs3eWtLLW83bl85ZVQ1ekxyWHNsZnh0bjVNNS1hWkk4S2tyd1ZPLU9DUXNqZWFwcURPLQ?oc=5",
-          "source": "JTBC",
-          "published_at": "2026-10-31T03:22:19+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "[자낳괴] 사상 최대 9조원 육박 바이낸스 가상자산 탈취사건도 북한 지목",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CeUdWMUo5Q01PRzBfSTVMdDNmaFpqTjBfc2dSM05JcFJKV09IRG9BZllxdFFySnhlcV9Mck1qZjdneDE2VUxnbUZ2a1Biam1kdzhZel9DbGVvVFVzUW93?oc=5",
-          "source": "저스트 이코노믹스",
-          "published_at": "2026-10-31T03:18:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "[코인 브리핑 10월 31일] 비트코인 7만7000달러대…주요 알트코인 반등",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nR0V4c2NEelBGVTd2aXc5dlNvMFpDUFg3TllzX0FSdlNOYWJtQ2dxOGxVeDM1TU1rbHhiVmg1SXFNcmpwNDlZQnJmUTFPYWJfcExfa2E5OXdjM0lpT2RUZkd4STE1TUtScnFB?oc=5",
-          "source": "https://www.standingout.kr/",
-          "published_at": "2026-10-31T03:01:10+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "리플, 매출 9억 달러 질주...XRP는 30% 추락",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQ2lfTGltcFppTXh3eGZKMmkxNmMzWDdhcUgzMHprRGR0dGRFSVR6YVlRMlJ5eGUzSnBPb2o0YXZRMVNWTm1wSjlR?oc=5",
-          "source": "코인리더스",
-          "published_at": "2026-10-31T03:00:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "체이널리시스 ＂올해 가상자산 해킹 피해액 89% 북한 소행＂",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yZWlDSmVodGF3OXVIWjNzSGRUaEJMTHdZR3k1TEJiR0JSMXBnWEpWWE5oTlI0aFFlVV9lSlVWeW0zb1JpcTZqdnhVMWJCT2lPbGtRblZLbUFvd3hjLXRRT3lIalM2UXB3SjQ1dVByRDhxNkVabEItWnlmZE0?oc=5",
-          "source": "한국경제TV",
-          "published_at": "2026-10-31T02:57:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "배준영 \"與, 가상자산 과세 유예 요구에 묵묵부답…시행 전 결론내자\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11U2JJZjNQNUtBREZzM0o2RFpqS1hvOTRMMzQtNWV6V0NqOE1WbnZuemw3c1F3QUtUNkM4Q0hBS05UTEpKbHJxc05vLVNqQnVsWTZlV0ZIMlI0S2RjRFpwWE9SN2xPR1dnTzBad2hlSkFmbXR0d2FOTNIBeEFVX3lxTE11U2JJZjNQNUtBREZzM0o2RFpqS1hvOTRMMzQtNWV6V0NqOE1WbnZuemw3c1F3QUtUNkM4Q0hBS05UTEpKbHJxc05vLVNqQnVsWTZlV0ZIMlI0S2RjRFpwWE9SN2xPR1dnTzBad2hlSkFmbXR0d2FOTA?oc=5",
-          "source": "뉴시스",
-          "published_at": "2026-10-31T02:49:41+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "유정복, 가상자산 신고 누락 혐의 송치… “형 재산, 허위신고 의도 없어”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tVUw1bjVYdlo4d1Y1TEV0UHlndDNBcjkyLXVSbXIyX0N3c3ZaZWtnYk9YMkdnbENqc2FFZlVtV1FKYzg3SGdHLU5GVE0tOVdoS0Y2SlVrYnN3RjhGeDg3VmZHNVZxY0dlZ0E?oc=5",
-          "source": "THE인천​",
-          "published_at": "2026-10-31T02:45:49+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "바이낸스 해킹 배후 북한 추정···\"가상자산 탈취가 외화벌이 수단\"",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VbFVBZXk0SllzVlFubTUxNzNCSzh1SWlkVEVMRkNMbUJYcl9pQ0s0a1FyLW5GNVRyMG9fMDE5SmJ3RDU0YkZqTFpZSUdjMm9nLU43ZjNCYkFTMHhvTkpScHo1MnQzLVlfNHFoTnhGUEtYUQ?oc=5",
-          "source": "시사저널e",
-          "published_at": "2026-10-31T02:42:21+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "폴리마켓 해킹으로 이용자 가상자산 탈취…390만 달러 피해 보상 발표",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTjZ5MExCMlB3NkVWRUI5d0h5bGRlUXljUG13R0NXTk83NHBEYXRkNDNmSDFZMHBiNC10NXdmd1gzNzZSVDFHdTNWaG9GWGJpSXhmbjdpTXgwWUVGdU4yc0U3a1ZMV0xoQm5KRw?oc=5",
-          "source": "데일리시큐",
-          "published_at": "2026-10-31T02:41:57+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "사상 최대 8.4조원 해킹 바이낸스… 美 FBI 수사 착수",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16eWwxVkFwTWVtMkwzZy1ZdkxVNk95bktadUF4dTJ1c0FRSUE2OWJwcURXanhaZzd3S3Axa2poLTd6X2l0Ym9HWjRqd3hqc3dYcUVVa09qTmNjU25EbmEtVjZPYUFJSWt1X1NSM2RIanE4dzBR0gF0QVVfeXFMTXp5bDFWQXBNZW0yTDNnLVl2TFU2T3luS1p1QXh1MnVzQVFJQTY5YnBxRFdqeFpnN3dLcDFramgtN3pfaXRib0daNGp3eGpzd1hxRVVrT2pOY2NTbkRuYS1WNk9hQUlJa3VfU1IzZEhqcTh3MFE?oc=5",
-          "source": "IT조선",
-          "published_at": "2026-10-31T02:38:31+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "“단 20분 만에 8.4조원 털렸다”… 바이낸스 역대 최대 해킹, 北 수법은",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6ZVdlUU9mS0VxSy12UkNDTWNNaVVteHlENmtjZ2tWU0lyVVBTdjFZUmNFbVVsdkpZb0stT2QySnAzbWx5THdTYlpmV0FUUQ?oc=5",
-          "source": "전자신문",
-          "published_at": "2026-10-31T02:30:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "트럼프, 집권 첫해 자산 48% 늘었다…가상자산 211배",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVS1NMktYd1RiVkFweGdCd1VRVGlFanNrXzZQZHY4S3BHQUk1YnJmQ3ltMm9wQncyX1Zsa3k5NzlKbUVoODdmV21GRE1QdGVwdXEtMS0yVDhTZw?oc=5",
-          "source": "경북매일",
-          "published_at": "2026-10-31T02:28:00+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "바이낸스 해킹으로 가상자산 63억 달러 탈취…북한 해커조직 ‘트레이더트레이터’ 배후 지목",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OaVRjdW5ZcVRWT0VKbklQTXJ1bUlJTjRDX24zNnpqNEVOTFVjdkY5aV9BSWJnNnhpM0Vzc1BFcHZVR1JKb0ZraTBLOWtmZGc1ankxRGNRUDI0ZW8tR29oVnpQUkZHenVoM04xMA?oc=5",
-          "source": "데일리시큐",
-          "published_at": "2026-10-31T02:26:39+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "비트코인 7만 달러대 후퇴…바이낸스 보안 파장에 가상자산 시장 긴장 고조",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxeHBOb0pDQW1VVmRoMkRHdy1ESEhtQm5wM1hpZnJOQzktUmc3XzJLeFA1T1l2OGdtV0hrNnJUeDVVVl9FZENIWkN0S1VxUWtoQi14d3JhTWxsOXE3emR0czdBcldpNDg?oc=5",
-          "source": "제민일보",
-          "published_at": "2026-10-31T02:21:15+00:00",
-          "category": "BTC"
-        },
-        {
-          "title": "北 해커들, 바이낸스 코인 20분 만에 털었다",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlJ6dk9qanlHS1ZPTUdqVFN0d3ZOMXNScjc0enFxSFVtTmxDMUFWSjd0Y2FROWpXLU8wekk4R0k2a1QwbXROY0NTQ3pOUjlrMEZFV0FuMUlQS3N2Ry1Ldk1iMmRLVFF3OWxoZlFCTUpsME5LNU9kX09OdUF2ZkxBaQ?oc=5",
-          "source": "이데일리",
-          "published_at": "2026-10-31T02:19:12+00:00",
-          "category": "ALT"
-        },
-        {
-          "title": "바이낸스서 가상화폐 8.4조 원 해킹... 사상 최대 규모",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mREpkU01mSFdxTzJKLVhSS2xnV3h2TXhGRHNlNFlaMTFKc3VhR0U4c0dZUnljSWlsU3hCbmdDMEttNUdHUGNfRFhOV1B4SF9yN3UxSzFxdVZyenpfc1N2OVVNS09ESmJfNVk3dDY4MVphZWtw?oc=5",
-          "source": "OhmyNews",
-          "published_at": "2026-10-31T02:09:00+00:00",
-          "category": "ALT"
         }
       ],
-      "news_updated_at": "2026-10-31T12:19:07.235190+00:00",
+      "news_updated_at": "2026-10-31T18:30:14.612342+00:00",
       "quotes": [
         {
           "name": "비트코인",
           "symbol": "KRW-BTC",
-          "price": 104430000.0,
+          "price": 104592000.0,
           "currency": "KRW",
-          "change_pct": 0.25344162,
-          "as_of": "2026-10-31T12:19:06.027000+00:00",
-          "fetched_at": "2026-10-31T12:19:07.979412+00:00",
+          "change_pct": 0.40896262,
+          "as_of": "2026-10-31T18:30:15.258000+00:00",
+          "fetched_at": "2026-10-31T18:30:15.434538+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "이더리움",
           "symbol": "KRW-ETH",
-          "price": 3027000.0,
+          "price": 3037000.0,
           "currency": "KRW",
-          "change_pct": 0.19860973,
-          "as_of": "2026-10-31T12:19:00.668000+00:00",
-          "fetched_at": "2026-10-31T12:19:07.979425+00:00",
+          "change_pct": 0.52962595,
+          "as_of": "2026-10-31T18:30:13.968000+00:00",
+          "fetched_at": "2026-10-31T18:30:15.434548+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "리플",
           "symbol": "KRW-XRP",
-          "price": 1683.0,
+          "price": 1687.0,
           "currency": "KRW",
-          "change_pct": -0.47309283999999996,
-          "as_of": "2026-10-31T12:19:02.981000+00:00",
-          "fetched_at": "2026-10-31T12:19:07.979432+00:00",
+          "change_pct": -0.23654641999999998,
+          "as_of": "2026-10-31T18:30:15.279000+00:00",
+          "fetched_at": "2026-10-31T18:30:15.434553+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         },
         {
           "name": "솔라나",
           "symbol": "KRW-SOL",
-          "price": 129200.0,
+          "price": 129300.0,
           "currency": "KRW",
-          "change_pct": -0.38550501000000004,
-          "as_of": "2026-10-31T12:19:01.020000+00:00",
-          "fetched_at": "2026-10-31T12:19:07.979439+00:00",
+          "change_pct": -0.30840401,
+          "as_of": "2026-10-31T18:30:12.387000+00:00",
+          "fetched_at": "2026-10-31T18:30:15.434557+00:00",
           "source": "업비트 · UTC 0시 기준 등락",
           "stale": false
         }
